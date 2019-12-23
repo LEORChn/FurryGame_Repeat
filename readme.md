@@ -19,6 +19,6 @@ zh-hant|繁体中文游戏内容的语言文件
 
 ## 编译和覆盖顺序
 
-(./data/compile-order.png "编译顺序")
+![](./data/compile-order.png "编译顺序")
 
 \* 流程图 Powered by GitLab
