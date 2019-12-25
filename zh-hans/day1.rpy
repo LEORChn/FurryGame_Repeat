@@ -4129,181 +4129,181 @@ translate zhHans start_4207c074:
 translate zhHans start_bfe3afb1:
 
     # s "Ah, that really hit the spot."
-    s ""
+    s "啊，真合時宜。"
 
 # game/day1.rpy:1307
 translate zhHans start_72b56008:
 
     # s "Thanks a bunch [charname]."
-    s ""
+    s "太感謝你了！[charname]！"
 
 # game/day1.rpy:1309
 translate zhHans start_a784ff96:
 
     # m "Eheh, you're welcome."
-    m ""
+    m "欸嘿，不用客氣。"
 
 # game/day1.rpy:1310
 translate zhHans start_7e77d48e:
 
     # m "Actually, I'm glad I got you lunch."
-    m ""
+    m "其實我還很高興能請你吃午餐。"
 
 # game/day1.rpy:1311
 translate zhHans start_f60e2d19:
 
     # m "You looked like you really needed it."
-    m ""
+    m "你完全看起來非常需要午餐。"
 
 # game/day1.rpy:1315
 translate zhHans start_8ef5b5b0:
 
     # s "...Did I really look that hungry?"
-    s ""
+    s "...我看起來哪麼餓嗎？"
 
 # game/day1.rpy:1316
 translate zhHans start_d69f222d:
 
     # s "Haha, I guess I should be grateful you noticed."
-    s ""
+    s "哈，我想我該要感激你注意到了。"
 
 # game/day1.rpy:1318
 translate zhHans start_d0bd9d21:
 
     # m "You gotta learn to take care of yourself though."
-    m ""
+    m "你該要學會照顧好你自己啊。"
 
 # game/day1.rpy:1319
 translate zhHans start_2b927a5d:
 
     # m "Nobody should starve themselves like that."
-    m ""
+    m "沒有人會這樣讓自己挨餓的。"
 
 # game/day1.rpy:1323
 translate zhHans start_58c4d36e:
 
     # s "I'd love to. But it's not that easy."
-    s ""
+    s "我也很想，但這不是說起來那樣容易。"
 
 # game/day1.rpy:1324
 translate zhHans start_f7528baa:
 
     # s "I...I was homeless and living on the streets until a few weeks ago."
-    s ""
+    s "我...直到數個禮拜前還是沒家可歸，流落街頭..."
 
 # game/day1.rpy:1325
 translate zhHans start_4f5e9870:
 
     # s "It's a bit of a difficult adjustment."
-    s ""
+    s "要適節起來實在不容易。"
 
 # game/day1.rpy:1327
 translate zhHans start_51d4237d:
 
     # m "O-oh wow, I never realized."
-    m ""
+    m "啊-噢，我真的不知道。"
 
 # game/day1.rpy:1328
 translate zhHans start_f2e67747:
 
     # m "But it sounds like things are getting better, right?"
-    m ""
+    m "但聽起來現在東西正在變得更好了，對嗎？"
 
 # game/day1.rpy:1329
 translate zhHans start_4ee9b656:
 
     # m "You have a job and a place at the academy now."
-    m ""
+    m "現在你有你的工作，也有你在學院中的家了。"
 
 # game/day1.rpy:1331
 translate zhHans start_b64375be:
 
     # s "True...But then there's assholes like that teacher...{w=.3}Dolores, was it?"
-    s ""
+    s "對是對...但現在還有一個混蛋老師...{w=.3}Dolores，沒記錯的話？"
 
 # game/day1.rpy:1332
 translate zhHans start_cf22b88d:
 
     # s "He's been warning everyone that I'm a crooked thug."
-    s ""
+    s "他一直在警告所有人，說我是一個心靈歪曲的街頭混混。"
 
 # game/day1.rpy:1333
 translate zhHans start_cd4616cf:
 
     # s "*Sigh*{w=.3} Life's hard enough without judgey people making things more difficult..."
-    s ""
+    s "唉...{w=.3}生活已經夠困難的，還不說有那些常常指指點點的人在…"
 
 # game/day1.rpy:1337
 translate zhHans start_d6239963:
 
     # s "By the way [charname], I want to thank you again."
-    s ""
+    s "對了[charname]，我想再多謝多一次。"
 
 # game/day1.rpy:1338
 translate zhHans start_8a4751c9:
 
     # s "I...I haven't been the nicest person to you so far."
-    s ""
+    s "我..也許不是你遇到過最親切的人。"
 
 # game/day1.rpy:1339
 translate zhHans start_b1d25cb2:
 
     # s "But you're still kind enough to help me out so uh..."
-    s ""
+    s "但你還是對我那麼關心，還幫我一把，所以喔..."
 
 # game/day1.rpy:1340
 translate zhHans start_b5d5ba8a:
 
     # s "Thank you."
-    s ""
+    s "謝謝。"
 
 # game/day1.rpy:1342
 translate zhHans start_ec944384:
 
     # m "Oh h-haha, it's been my pleasure."
-    m ""
+    m "喔哈哈，這是我榮幸了。"
 
 # game/day1.rpy:1348
 translate zhHans start_04ab4dd0:
 
     # "The two of us stayed at the cafe for a while, exchanging small talk."
-    ""
+    "我們倆在咖啡廳繼續逗留了一會，彼此為各種事慢慢交流着。"
 
 # game/day1.rpy:1349
 translate zhHans start_ebe2e27e:
 
     # "It was surprisingly enjoyable."
-    ""
+    "意外地，這還挺享受的。"
 
 # game/day1.rpy:1350
 translate zhHans start_7419492e:
 
     # "In fact, we didn't even notice it was time to go before Sissel's boss shooed us away."
-    ""
+    "事實上，我們不到Sissel的老闆提醒我們要走，還真不留意到時間。"
 
 # game/day1.rpy:1355
 translate zhHans start_10949a97:
 
     # "After returning from the cafe, I found myself standing on campus yet again."
-    ""
+    "從咖啡廳回來後，我發現我又站在校園外側了。"
 
 # game/day1.rpy:1356
 translate zhHans start_c1cbd013:
 
     # "It's the afternoon, and thankfully there are no more classes today."
-    ""
+    "現在是中午，幸好我今天沒有更多的課堂。"
 
 # game/day1.rpy:1357
 translate zhHans start_ad2a43a3:
 
     # "No homework either. {p=.1}Just a huge chunk of free time."
-    ""
+    "亦沒有功課。{p=.1}有的只是很多空餘時間。"
 
 # game/day1.rpy:1358
 translate zhHans start_fed230d0:
 
     # "I wonder what I should do?"
-    ""
+    "不知道我現在該去做啥？"
 
 # game/day1.rpy:1363
 translate zhHans start_15e0e9a2:
@@ -5137,7 +5137,7 @@ translate zhHans start_16f872c7:
 translate zhHans start_16ce7068:
 
     # "I fall into my bed with an exhausted slump."
-    ""
+    "我疲倦地一下子跌進床上。"
 
 # game/day1.rpy:1584
 translate zhHans start_40bee817:
@@ -5173,7 +5173,7 @@ translate zhHans start_54ec2ca8:
 translate zhHans start_4cfd5ac8:
 
     # "Maybe things will start getting better after all."
-    ""
+    "可能最後東西會開始變得更好的。"
 
 # game/day1.rpy:1590
 translate zhHans start_102283ed:
