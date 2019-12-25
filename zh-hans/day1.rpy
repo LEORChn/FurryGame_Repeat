@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-10-27 22:57
+# TODO: Translation updated at 2019-10-27 22:57
 
 # game/day1.rpy:8
 translate zhHans start_7736a2d6:
@@ -10,13 +10,13 @@ translate zhHans start_7736a2d6:
 translate zhHans start_b73d7c79:
 
     # "Do you remember anything?{p=.5}The events that happened before,{w=.5} the tragedies that will {color=#45FFFF}repeat{/color} themselves?"
-    "你还记得什么吗？{p=.5}例如曾经发生过的那些事情？{w=.5}那些{color=#45FFFF}周而复始{/color}循环上演的悲剧？"
+    "你还记得什么吗？{p=.5}那些曾经发生过的事情？{w=.5}那些{color=#45FFFF}周而复始{/color}循环上演的悲剧？"
 
 # game/day1.rpy:10
 translate zhHans start_46dc6f49:
 
     # ".........Oh.......I...........{p=.5}........I couldn't bring back your memories....{w=.3}{size=-7}....just like last time....{/size}"
-    ".........哦.......我...........{p=.5}........我好像没法让你回忆起那些了....{w=.3}{size=-7}....就像上一次一样....{/size}"
+    ".........哦.......我...........{p=.5}........我没法带回你的记忆了....{w=.3}{size=-7}....就像上一次一样....{/size}"
 
 # game/day1.rpy:11
 translate zhHans start_11468c6a:
@@ -46,19 +46,19 @@ translate zhHans start_8e536f99:
 translate zhHans start_6cdabb44:
 
     # "Well,{w=.3} it's time for us to depart."
-    "嗯……{w=.3}是时候分开了。"
+    "嗯……{w=.3}是时候出发了。"
 
 # game/day1.rpy:16
 translate zhHans start_639357de:
 
     # "B-but before we go...{p=.5}Can I tell you something?{p}I've said this many times before,{w=.3} but I want to tell you again..."
-    "但当我们分道扬镳之前...{p=.5}我可以最后再道声别吗？{p}虽然……我已经重复了很多次同样的话语，{w=.3}但我还是想要告诉你..."
+    "但当我们分道扬镳之前...{p=.5}我还想再多说一句{p}虽然……我已经重复了很多次同样的话，{w=.3}但我还是想要告诉你..."
 
 # game/day1.rpy:17
 translate zhHans start_ac91a86f:
 
     # "I.........{p=1}...........I'm sorry I couldn't save you."
-    "我.........{p=1}...........我非常抱歉没能救你。"
+    "我.........{p=1}...........我非常抱歉没能救下你。"
 
 # game/day1.rpy:23
 translate zhHans start_57a2fba9:
@@ -82,7 +82,7 @@ translate zhHans start_cbc208c8:
 translate zhHans start_f0e6dc25:
 
     # "I've never been to this side of town before, {w=.3}but it looks like I'll have to get used to living here."
-    "我从没来过城的这边 {w=.3}但看来我得习惯住在这里了。"
+    "我从没来过城的这边 {w=.3}但看起来我得开始适应在这里生活了。"
 
 # game/day1.rpy:40
 translate zhHans start_e96ba9e0:
@@ -124,13 +124,13 @@ translate zhHans start_5d215e1f:
 translate zhHans start_d150adcf:
 
     # "I better hurry up and get inside.{p=.5}I doubt strolling in late would leave a good first impression."
-    "我得赶紧进学校去了。{p=.5}迟到了可不会留下好印象。"
+    "我得赶紧进学校去了。{p=.5}拖迟到了可不会留下好印象。"
 
 # game/day1.rpy:50
 translate zhHans start_fc706561:
 
     # "As I approach the front doors, the air suddenly turns frigid."
-    "当我走近大门时，空气中忽然传来一阵刺骨的感觉。"
+    "当我走近大门时，空气中传来一阵刺骨的感觉。"
 
 # game/day1.rpy:55
 translate zhHans start_b1a79d9c:
@@ -190,7 +190,7 @@ translate zhHans start_76eea6b7:
 translate zhHans start_f99ef94a:
 
     # "I try banging on the glass again."
-    "我继续敲打起门玻璃。"
+    "我继续敲打门玻璃。"
 
 # game/day1.rpy:90
 translate zhHans start_8dde82f8:
@@ -280,7 +280,7 @@ translate zhHans start_a2aa8f35:
 translate zhHans start_fdc661ac:
 
     # p "It's better than being miserable alone,{w=.3} at least."
-    p "至少，{w=.3}比自己愁愁不乐好得多了。"
+    p "至少，{w=.3}比孤独的悲惨强多了。"
 
 # game/day1.rpy:128
 translate zhHans start_e5e318c8:
@@ -310,7 +310,7 @@ translate zhHans start_66e9ad7b:
 translate zhHans start_d8c01014:
 
     # "Phillip was fumbling with his umbrella, glancing at me periodically."
-    "Phillip摆弄着手里的雨伞，是不是向往瞟上一眼。"
+    "Phillip摆弄着手里的雨伞，时不时向往瞟上一眼。"
 
 # game/day1.rpy:136
 translate zhHans start_3ad72e97:
@@ -448,7 +448,7 @@ translate zhHans start_68d3ec73:
 translate zhHans start_b76d7339:
 
     # p "But work helps keep my mind busy and away from the {i}bad thoughts{/i},{w=.3} you know?"
-    p "不过工作能让我的脑子忙起来，就不会有{i}不好的想法{/i},{w=.3}你懂的？"
+    p "不过工作能让我的脑子一直忙着，就不会有{i}不好的想法{/i},{w=.3}你懂的？"
 
 # game/day1.rpy:183
 translate zhHans start_bfe7cc7c:
@@ -466,7 +466,7 @@ translate zhHans start_620d7da1:
 translate zhHans start_9919f464:
 
     # m "Won't you just burn yourself out and get more stressed?"
-    m "你不会累到自己然后更加焦虑吗？"
+    m "你这不会透支自己然后更加焦虑吗？"
 
 # game/day1.rpy:190
 translate zhHans start_afef58d8:
@@ -484,7 +484,7 @@ translate zhHans start_cd53e3e3:
 translate zhHans start_7f1d7e21:
 
     # p "Sometimes when I stop,{w=.3} I feel like I'm just making excuses or giving up."
-    p "有时候我停下来，{w=.3}我觉得自己只是在找借口或者已经放弃了。"
+    p "当我停下来时，{w=.3}我就会觉得自己只是在找借口或者已经放弃了。"
 
 # game/day1.rpy:195
 translate zhHans start_93e050e5:
@@ -526,7 +526,7 @@ translate zhHans start_84916762:
 translate zhHans start_6a8643c9:
 
     # p "Well,{w=.3} I do eat a little bit of dark chocolate on occasions."
-	    p "嗯，{w=.3}我有时候会吃一点黑巧克力。"
+    p "嗯，{w=.3}我有时候会吃一点黑巧克力。"
 
 # game/day1.rpy:210
 translate zhHans start_6dbc7fb3:
@@ -1138,13 +1138,13 @@ translate zhHans start_89ba1ac0:
 translate zhHans start_d87d3353:
 
     # m "Well, waiting here will take forever.{p=.3}This is the back entrance after all."
-    m "咁，等在這裏只會等到無止境。"
+    m "嗯，在这等大概要等一辈子。{p=.3}毕竟这里是后门。"
 
 # game/day1.rpy:415
 translate zhHans start_9159dec0:
 
     # m "Climbing the window doesn't {i}look{/i} too difficult either-"
-    m "爬窗{i}看起來{/i}也不難—"
+    m "爬窗{i}看起來{/i}也不难—"
 
 # game/day1.rpy:416
 translate zhHans start_ed014b52:
@@ -1156,266 +1156,266 @@ translate zhHans start_ed014b52:
 translate zhHans start_f2f7b80a:
 
     # o "Hehe I knew you'd be reasonable, [charname]!"
-    o "嘿，我就知道你會合我意的，[charname]！"
+    o "嘿，我就知道你是个明白人，[charname]！"
 
 # game/day1.rpy:418
 translate zhHans start_0a1b7695:
 
     # m "Hey Phillip, are you coming along too?"
-    m "呢Phillip，你也要一起來嗎？"
+    m "嘿Phillip，你也要一起来吗？"
 
 # game/day1.rpy:419
 translate zhHans start_191da23e:
 
     # p "I guess so..."
-    p "應該是吧..."
+    p "应该是吧..."
 
 # game/day1.rpy:420
 translate zhHans start_bcbd0b09:
 
     # o "Enough dilly-dallying, we're all late as it is. Let's get going!"
-    o "夠了，不要在那慢吞吞的，我們也已經遲到了。趕快上吧！"
+    o "不要再磨磨蹭蹭的了，我们都已经迟到了。赶快上吧！"
 
 # game/day1.rpy:426
 translate zhHans start_c04e0d9e:
 
     # "The three of us hobbled onto the ledge that Owen was climbing earlier and inched our way towards the window."
-    "我們仨小心翼翼攀上剛才Owen踏上的那個突起，慢慢地爬往窗戶那處。" 
+    "我们仨小心翼翼地攀上刚才Owen踏上的那个沿，慢慢地往窗户那挪动。" 
 
 # game/day1.rpy:427
 translate zhHans start_02e0402b:
 
     # "Now that I'm up here,{w=.3} this feels like a really bad idea."
-    "現在爬到這裏，我已經感覺這是一個非常糟的主意。"
+    "现在爬到这里，{w=.3}我已经感觉这是一个非常糟的主意。"
 
 # game/day1.rpy:429
 translate zhHans start_651a0e46:
 
     # "The rain made every surface wet and slick."
-    "雨水把所有的表面都弄得無比濕滑。"
+    "雨水把所有的表面都弄得无比湿滑。"
 
 # game/day1.rpy:430
 translate zhHans start_6b0e0e39:
 
     # "I feel like any wrong move and I'll end up slipping and bashing my head on the pavement."
-    "我感覺只要踏錯一步就會滑倒兼用自己的頭狠狠親吻人行道。"
+    "我感觉只要踏错一步就会滑倒并用自己的头狠狠亲吻人行道。"
 
 # game/day1.rpy:431
 translate zhHans start_7afb9cd7:
 
     # "Phillip, on the other hand,{w=.3} walked alongside us with the casual grace of a cat."
-    "另一方面，Phillip{w=.3}則在我們周邊用貓一貫的優雅匍匐着。"
+    "然而Phillip{w=.3}则以猫一贯的优雅在我们身边移动着。"
 
 # game/day1.rpy:432
 translate zhHans start_bdd85d84:
 
     # "He glanced at us occasionally with slight concern."
-    "他偶爾也關心地瞄了我們一下。"
+    "他偶尔还略带关心地瞄我们一眼。"
 
 # game/day1.rpy:433
 translate zhHans start_f8dae37e:
 
     # p "Are you doing okay [charname]? {w=.3}You look kinda pale."
-    p "[charname]，真的沒事？{w=.3}你看起來臉色有點蒼白。"
-    #吐槽一下，他不是白毛嗎？還蒼白？
+    p "[charname]你真的没事？{w=.3}我看你你脸都白了。"
+    #吐槽一下，他不是白毛吗？还苍白？
 
 # game/day1.rpy:434
 translate zhHans start_1ef1a204:
 
     # m "I-I mean,{w=.3} we are a little high up-"
-    m "我-我是說，{w=.3} 我們現在有點高-"
+    m "我-我觉得，{w=.3} 我们现在有点高-"
 
 # game/day1.rpy:436
 translate zhHans start_73266683:
 
     # "There was a sudden {i}click!{/i} as Owen swung opened the window with a wide grin."
-    "{i}咔{/i}一聲，Owen滿臉笑容地把窗戶打開了。"
+    "{i}咔{/i}一声，Owen满脸笑容地把窗户打开了。"
 
 # game/day1.rpy:437
 translate zhHans start_885aae6e:
 
     # o "See? Way easier than waiting outside for eternity. {p=.3}Let's go-!"
-    o "看？比在外面等到天昏地暗還簡單不少！{p=.3}我們走-！"
+    o "看吧？比在外面等到天昏地暗简单多了！{p=.3}我们走-！"
 
 # game/day1.rpy:438
 translate zhHans start_6f20a2cb:
 
     # "Owen leapt into the window headfirst.{p}He leap was immediately followed by a {size=+10}{i}CRACK{/i}{/size} and a resounding \"Ow!\""
-    "Owen一頭跳進窗戶中{p}他那一跳立刻伴隨着一聲{size=+10}{i}喀{/i}{/size}和一句回響着的「噢！」"
+    "Owen一头跳进窗户中{p}紧接着传来一声{size=+10}{i}咔{/i}{/size}和一句带着回音的的“嗷！”"
 
 # game/day1.rpy:439
 translate zhHans start_b7a4e1d0:
 
     # m "Are you still alive in there?"
-    m "還在生嗎？"
+    m "你还活着吗？"
 
 # game/day1.rpy:440
 translate zhHans start_a47aea09:
 
     # o "Yeah! Perfectly fine, nothing went wrong!"
-    o "還在！完全沒事！完全沒問題！"
+    o "活着！完全没事，一切安好！"
 
 # game/day1.rpy:441
 translate zhHans start_d5849abf:
 
     # p "Except that he broke the window lock. This thing isn't closing anytime soon."
-    p "除了他弄壞了那個窗鎖之外...這窗暫時有一段時間都關不上了。"
+    p "除了他把窗户锁弄坏了...这窗暂时有一段时间都关不上了。"
 
 # game/day1.rpy:442
 translate zhHans start_cceb85dc:
 
     # m "Well at least now we can get out of this rain."
-    m "至少我們現在總算擺脫了外面的雨。"
+    m "至少我们现在总算摆脱了外面的雨。"
 
 # game/day1.rpy:445
 translate zhHans start_46f7aab5:
 
     # m "Eh, I'm not sure I want to try climbing a building when it's raining out."
-    m "呃，我不覺得我想下着雨嘗試爬上去。"
+    m "呃，我不觉得我想下雨天尝试爬上去。"
 
 # game/day1.rpy:446
 translate zhHans start_15560ed9:
 
     # m "We'd probably slip and end up hugging the ground."
-    m "我們可能會滑倒後就擁抱大地收場。"
+    m "我们可能会滑下来拥抱大地母亲。"
 
 # game/day1.rpy:448
 translate zhHans start_3d51200f:
 
     # o "Aw you're all a bunch of killjoys.{p=.3}Opportunities to climb windows don't come up everyday you know."
-    o "噢你們全都是掃興鬼。{p=.3}爬窗的機會可不是每天都有的啦。"
+    o "噢你们全都是扫兴鬼。{p=.3}爬窗的机会可不是每天都有的啦。"
 
 # game/day1.rpy:449
 translate zhHans start_14210dae:
 
     # p "Hey, better safe than sorry after all."
-    p "嘿，起碼總算比事後道歉更安全吧。" 
+    p "嘿，安全总比后悔强。" 
 
 # game/day1.rpy:451
 translate zhHans start_d936fb31:
 
     # p "....I guess you could say we're missing{w=.3} a {i}window of opportunity?{/i}"
-    p "....我想，你可以說我們差了{w=.3}一扇{i}機會之窗{/i}？"
+    p "....我想，你可以说我们错失了{w=.3}一扇{i}机会之窗{/i}？"
 
 # game/day1.rpy:452
 translate zhHans start_bcca58ea:
 
     # "I groaned and buried my face in my hands."
-    "我低吼着，忍不住低頭埋進我那雙手掌裏。"
+    "我哀叫了一声，捂住了脸。"
 
 # game/day1.rpy:454
 translate zhHans start_eb04a973:
 
     # o "Geez, and you think my flirting was bad."
-    o "天啊，你這樣還覺得我的搭訕差。"
+    o "天啊，你这样还嫌我肉麻。"
 
 # game/day1.rpy:455
 translate zhHans start_b4e1b5c8:
 
     # m "I'd take your flirting over bad puns any day."
-    m "我還是每天聽你的搭訕好了。"
+    m "我还是听你肉麻也不要听他的冷笑话了。"
 
 # game/day1.rpy:457
 translate zhHans start_b42be193:
 
     # p "Don't be mean, that was a good one!"
-    p "不要這樣啊，這個還不錯啊！"
+    p "不要这样嘛，这一点也不冷的！"
 
 # game/day1.rpy:458
 translate zhHans start_d1232199:
 
     # m "If you say so."
-    m "你覺得就行吧。"
+    m "你觉得是就是吧。"
 
 # game/day1.rpy:460
 translate zhHans start_b65ef2eb:
 
     # o "Keep dreaming kiddo. You're losing this war."
-    o "別作夢了小子。你已經輸掉了。"
+    o "别作梦了小子。你已经输掉了这场战争。"
 
 # game/day1.rpy:461
 translate zhHans start_4eb112fb:
 
     # m "And all of our respect."
-    m "還有對你的尊敬。"
+    m "还有所有对你的尊敬。"
 
 # game/day1.rpy:462
 translate zhHans start_cb6306a8:
 
     # o "For making us wait outside for all eternity."
-    o "因為你讓我們等在外頭直到永遠，阿門。"
+    o "因为你让我们等在外面等一辈子。"
 
 # game/day1.rpy:463
 translate zhHans start_c6d62294:
 
     # p "Oh geez, you're all so high maintenance."
-    p "卧，你們真夠高要求。"
+    p "天呐，你们要求真够高。"
 
 # game/day1.rpy:465
 translate zhHans start_557c6ac6:
 
     # p "Weeelllll, I suppose I {i}could{/i} make this easier and just pick the lock."
-    p "那那那，我想我是{i}可以{/i}弄得容易一點，乾脆撬鎖讓我們進去啦。"
+    p "那～～～，我想我{i}可以{/i}弄得容易一点，干脆撬锁让我们进去啦。"
 
 # game/day1.rpy:467
 translate zhHans start_830d5f11:
 
     # o "Whoa, you know how to pick locks? That's sick!"
-    o "嘩，你懂怎樣撬鎖？太強了！"
+    o "哇，你还会撬锁？太强了！"
 
 # game/day1.rpy:468
 translate zhHans start_2a421bc4:
 
     # o "Where did you learn this kinda stuff?"
-    o "你在哪學會這種東西啊？"
+    o "你在哪学会这种东西啊？"
 
 # game/day1.rpy:470
 translate zhHans start_b9f59d2c:
 
     # p "I can't go revealing all of my secrets."
-    p "我可不能公開我全部的秘密。"
+    p "我可不能公开我的全部秘密。"
 
 # game/day1.rpy:471
 translate zhHans start_bc6d7fef:
 
     # p "Anyway,{w=.3} give me a few minutes.{w=.3} Lock-picking takes a while."
-    p "總之{w=.3}，給我幾分鐘...{w=.3}撬鎖這活需要時間。"
+    p "总之{w=.3}，给我几分钟...{w=.3}撬锁这活需要时间。"
 
 # game/day1.rpy:475
 translate zhHans start_bfc34878:
 
     # "Phillip crouches down in front of the door and pulls out some hairpins and tweezers."
-    "Phillip在門前蹲下，拿出了一些髮夾和小鑷子。"
+    "Phillip在门前蹲下，拿出了一些发夹和小镊子。"
 
 # game/day1.rpy:476
 translate zhHans start_d67016e7:
 
     # "From the way he's picking at it, you'd think he's done this before."
-    "從他的姿勢來看，你一定會覺得他以前已經做過這活。"
+    "从他的姿势来看，这肯定不是他第一次了。"
 
 # game/day1.rpy:478
 translate zhHans start_7f88aec6:
 
     # o "Heh, nice view back here."
-    o "嘿！這後面的風景挺好呢！"
+    o "嘿！背影真是诱人呢！"
 
 # game/day1.rpy:479
 translate zhHans start_03e52885:
 
     # "Phillip just rolled his eyes and continued picking the lock."
-    "Phillip只翻了他一白眼就繼續撬鎖了。"
+    "Phillip只翻了他一白眼就继续撬锁了。"
 
 # game/day1.rpy:480
 translate zhHans start_6f5d4471:
 
     # m "Are you always this...{w=.3}flirty?"
-    m "你是不是經常那麼{w=.3}外向?"
+    m "你是不是一直那么{w=.3}肉麻?"
 
 # game/day1.rpy:482
 translate zhHans start_840ab8c5:
 
     # o "Oh are you jealous? Don't worry dude, your type turns me on too-"
-    o "噢你是妒忌嗎？不要擔心哦，像你這種可會燃起我哦~"
+    o "噢你是妒忌了吗？不要担心哦，我也很喜欢你这种体型~"
 
 # game/day1.rpy:484
 translate zhHans start_b3f95bfb:
@@ -1427,74 +1427,74 @@ translate zhHans start_b3f95bfb:
 translate zhHans start_4fa2e6cb:
 
     # p "Whoops~"
-    p "Whoops~"
+    p "啊哦~"
 
 # game/day1.rpy:486
 translate zhHans start_abefe8f1:
 
     # p "Well the good news is that I unlocked it.{p=.3}Bad new is that I kinda broke the lock."
-    p "啊...好消息是我撬開了。{p=.3}壞消息是我貌似撬壞鎖了..."
+    p "啊...好消息是我撬开了。{p=.3}坏消息是我貌似撬坏锁了..."
 
 # game/day1.rpy:487
 translate zhHans start_750a00ec:
 
     # p "This thing ain't staying closed anytime soon."
-    p "這門似乎一段時間都關不上了。"
+    p "这门似乎一段时间都要关不上了。"
 
 # game/day1.rpy:488
 translate zhHans start_51e1fe45:
 
     # m "At least now we can get inside and out from this rain."
-    m "起碼現在我們可以進去，遠離這場滂沱雨吧。"
+    m "起码现在我们可以进去，远离这场滂沱大雨吧。"
 
 # game/day1.rpy:497
 translate zhHans start_3b6c4f08:
 
     # "As the three of us shook the rain from our hair, I glanced around the lobby."
-    "在我們正在搖走在毛髮中的雨水的同時，我略略瞄了大堂一眼。"
+    "在我们三个抖掉雨水的时候，我略略瞄了一眼大厅。"
 
 # game/day1.rpy:498
 translate zhHans start_f3e0741f:
 
     # "This school is fancier than I expected.{p=.1}I wonder where we're supposed to go from here?"
-    "這間學校比我想像中更豪華(?){p=.1}不知道我們現在應該去哪呢？。"
+    "这所学校比我想像中更豪华。{p=.1}不知道我们现在应该去哪呢？"
 
 # game/day1.rpy:499
 translate zhHans start_1d297c2b:
 
     # o "Mm, the orientation is probably over by now. I think we should probably find a teacher-"
-    o "嗯，新生會應該已經完結了。我想我們應該要找個老師-"
+    o "嗯，迎新会应该已经结束了。我想我们应该找个老师-"
 
 # game/day1.rpy:502
 translate zhHans start_927115fb:
 
     # "???" "{size=+10}HEY YOU BRATS!{/size}"
-    "???" "{size=+10}給我站住！{/size}"
+    "???" "{size=+10}嘿小兔崽子们！{/size}"
 
 # game/day1.rpy:503
 translate zhHans start_117f1ca5:
 
     # "A large ugly rat hobbles towards us, his face scrunched up in hostility.{p=.1}He looked like the type of guy that constantly started bar fights."
-    "一隻巨大又*樣衰的老鼠跛着雙腳朝我們走過來。他的醜臉因為憤怒而扭曲起來。{p=.1}他看起來像那種必定會在酒吧打群架的人。"
-#*醜陋不夠氣氛
+    "一只巨大又丑陋的老鼠跛着双脚朝我们走过来，他扭曲的五官中透着敌意。{p=.1}他看起来像那种必定会在酒吧激起一场斗殴的人。"
+#*丑陋不够气氛
 
 # game/day1.rpy:504
 translate zhHans start_a1eb6f5e:
 
     # "???" "What do you miscreants think you're doing, entering the building like a bunch of criminals?"
-    "???" "你們這些惡棍以為自己在幹嘛，像罪犯那樣進入校園？"
+    "???" "你们这些恶棍以为自己在干嘛，像罪犯那样溜进学校？"
 
 # game/day1.rpy:506
 translate zhHans start_b8b0c8eb:
 
     # o "Oh, hello there Dorcas."
-    o "喔，你好啊，Dorcas。"
+    o "喔，你好啊Dorcas。"
 
 # game/day1.rpy:507
 translate zhHans start_21a5bf40:
 
     # d "That's {i}Mr. Dolores{/i} to you, brat."
-    d "你該叫我Mr. Dolores，"
+    d "你该叫我Mr. Dolores，"
 
 # game/day1.rpy:508
 translate zhHans start_c50b9f4b:
@@ -1506,205 +1506,205 @@ translate zhHans start_c50b9f4b:
 translate zhHans start_664eda38:
 
     # "The man (I think he's a teacher?) turns towards me and Phillip with an upturned nose."
-    "這個男人（應該是老師？）掛着朝天鼻轉向Phillip跟我。"
+    "这个男的（应该是老师？）转过来用鼻孔瞪着Phillip跟我。"
 
 # game/day1.rpy:511
 translate zhHans start_c3d23cdf:
 
     # d "Ah, and you're [charname] and Phillip, I take it?{p=.3}The two that missed the orientation?"
-    d "呃，我猜你們是[charname]和Phillip？{p=.3}那兩個缺席迎新會的？"
+    d "啊，我猜你们就是[charname]和Phillip？{p=.3}那两个缺席迎新会的？"
 
 # game/day1.rpy:512
 translate zhHans start_a949c2d1:
 
     # m "Y-yes?{p=.3}Owen was with us too-"
-    m "對...？{p=.3}Owen也跟我們-"
+    m "对...？{p=.3}Owen也跟我们-"
 
 # game/day1.rpy:513
 translate zhHans start_8c3a2ae0:
 
     # d "Who would have thought Gerania Academy's new students would be snooping in here this way?{p=.3}Guess I shouldn't be surprised-"
-    d "誰會想到Gerania學院的新學生會這樣偷溜進來？{p=.3}也許我不應該驚訝-"
+    d "谁会想到Gerania学院的新学生会这样偷溜进来？{p=.3}也许我不应该惊讶-"
 
 # game/day1.rpy:515
 translate zhHans start_b99a7851:
 
     # o "Actually, all the entrances were locked and we were stuck in the rain.{p=.3}A system glitch, I guess?"
-    o "事實上，所有的入口都被鎖死了，我們也被困在外面的雨中。{p=.3}我猜是系統缺陷？"
+    o "事实上，所有的入口都被锁住了，我们被困在大雨里。{p=.3}我猜是系统故障？"
 
 # game/day1.rpy:516
 translate zhHans start_81c06c2f:
 
     # o "It'd be great if you'd stop yelling at them for something they couldn't help."
-    o "所以如果你能停止因為他們無法控制的事情而朝他們大放口水，那就最好了。"
+    o "所以如果你能停止因为他们无法控制的事情朝他们大放口水，那就最好了。"
 
 # game/day1.rpy:517
 translate zhHans start_98059bfa:
 
     # "Mr. Dolores huffed and shook his head."
-    "Mr. Dolores憤怒地搖着頭。"
+    "Mr. Dolores愤怒地摇摇头。"
 
 # game/day1.rpy:518
 translate zhHans start_3bc2fa72:
 
     # d "Whatever. At least you folks weren't like that other kid that didn't even show up."
-    d "管他的，至少你們不像那個連身影都不見的死傢伙。"
+    d "随便吧。至少你们几个还不像那些根本就没来的学生。"
 
 # game/day1.rpy:519
 translate zhHans start_99850f4e:
 
     # d "Here, take your student ID cards and unpack at your dorms. {p=.3}And Owen, make yourself useful and be a tour guide or something."
-    d "這裏，拿好你們的學生證，把行李放好在你們自己的宿舍裏，{p=.3}還有Owen，找事情去做啦，當有用的導遊啊，那些啦。"
+    d "这呢，拿着你们的学生卡去宿舍里放一下东西。{p=.3}Owen你干点好事，带个路什么的。"
 
 # game/day1.rpy:520
 translate zhHans start_3cb8481d:
 
     # "Mr. Dolores tossed the ID cards at us and stomped away."
-    "Mr. Dolores將學生證擲給我們後便憤怒地離開了。"
+    "Mr. Dolores把学生卡丢给我们就气呼呼地离开了。"
 
 # game/day1.rpy:522
 translate zhHans start_43ea8705:
 
     # p "Wow...{w=.3}That guy was...."
-    p "嘩...{w=.3}那個人真是..."
+    p "喔……{w=.3}那家伙真是……"
 
 # game/day1.rpy:523
 translate zhHans start_f1d0d3e6:
 
     # m "A douche?"
-    m "死八婆？"
+    m "混球？"
 
 # game/day1.rpy:525
 translate zhHans start_40c5c3f4:
 
     # o "Eheh, sorry about the first impression, guys. {p=.3}This is a good school, really."
-    o "嘻，不好意思給了你們一個壞印象了。{p=.3}但這間學校是很好的，真的！"
+    o "哎嘿，不好意思留下这么个第一印象。{p=.3}但这真的是所好学校。"
 
 # game/day1.rpy:526
 translate zhHans start_a244b3a4:
 
     # o "Dolores is just a jackass."
-    o "Dolores只不過是一個混蛋而已。"
+    o "Dolores就是个混球。"
 
 # game/day1.rpy:527
 translate zhHans start_3ab5d08c:
 
     # "I heaved a tired sigh. It hasn't even been an hour and this school's already been a crazy experience."
-    "我疲勞地嘆了口氣。這還未到一小時，這學校就已經淨是瘋狂的事情了。"
+    "我疲惫的叹了一口气。这还不到一个小时，这所学校就已经净是疯狂的事情了。"
 
 # game/day1.rpy:528
 translate zhHans start_8a472629:
 
     # "Shaking my head, I glanced at my ID card."
-    "搖了自己的頭，我瞥了一下我自己的學生證。"
+    "我摇了摇头，端详起我的学生卡。"
 
 # game/day1.rpy:530
 translate zhHans start_9e230fa5:
 
     # "Ugh, I probably shouldn't have sent in a selfie as my ID photo.{p=.3}What was I thinking?"
-    "呃...看來我不應該在表上發我的自拍照...{p=.3}我那時究竟在想甚麼？"
+    "额，我大概不该上传一张自拍当学生卡照片的。{p=.3}我当时想什么呢？"
 
 # game/day1.rpy:532
 translate zhHans start_5002641c:
 
     # m "By the way Owen, could you show us where our dorms are?"
-    m "話說Owen你可以帶領我們去我們的宿舍嗎？"
+    m "那么Owen，你能不能帮我们找一下宿舍在哪里呢？"
 
 # game/day1.rpy:536
 translate zhHans start_890b266b:
 
     # o "Of course!{p=.3}And Phillip and I can get some \"roommate bonding\" time too~"
-    o "當然！{p=.3}屆時我還能和Phillip有一個「舍友交際」時間～"
+    o "必须的！{p=.3}之后我还可以和Phillip做一些“增进室友感情”的事情了～"
 
 # game/day1.rpy:538
 translate zhHans start_1b640dae:
 
     # p "What?"
-    p "甚麼？"
-    
+    p "啥子？"
+
 # game/day1.rpy:540
 translate zhHans start_8b5c2163:
 
     # o "C'mon buddy, it'll be a good chance to get to know each other!"
-    o "來嘛老兄，這一定是一個好機會去讓我們互相了解對方！"
+    o "来吧哥们儿，这绝对是了解对方的好机会哦！"
 
 # game/day1.rpy:541
 translate zhHans start_51d6e04b:
 
     # "Owen goes to put a friendly arm around Phillip, but the little guy instantly stiffens."
-    "Owen搭着手到Phillip肩膀，頓時他整個人都僵硬，不好起來了。"
+    ""
 
 # game/day1.rpy:543
 translate zhHans start_efb2d6fb:
 
     # p "Oh!{w=.3} I just remembered that I forgot something.{w=.3} I better go leave and get it!"
-    p "噢！{w=.3}我忽然想起我忘了一些東西{w=.3}我最好先離開一下去拿回它！"
+    p ""
 
 # game/day1.rpy:544
 translate zhHans start_48fa594e:
 
     # o "What did you forget?"
-    o "你忘了甚麼？"
+    o ""
 
 # game/day1.rpy:545
 translate zhHans start_dfe817a4:
 
     # p "Uh....{w=.3}I forgot!"
-    p "啊.... {w=.3}忘記了！"
+    p ""
 
 # game/day1.rpy:546
 translate zhHans start_2caff289:
 
     # p "Welp,{w=.3} time for me to leave."
-    p "那樣，{w=.3}是時候要出發了。"
+    p ""
 
 # game/day1.rpy:550
 translate zhHans start_c4e38f09:
 
     # p "I'll see you guys around!{p=.3}{size=-15}...I hope the fuck not-{/size}"
-    p "我們晚點再見！{p=.3}{size=-15}...TM的希望不見-"
+    p ""
 
 # game/day1.rpy:552
 translate zhHans start_366f3678:
 
     # "As Phillip strolls away, Owen stares at his retreating back, deep in thought."
-    "Phillip離開後，Owen若有所思地盯着他離開的背影。
+    ""
 
 # game/day1.rpy:554
 translate zhHans start_7ca2e195:
 
     # "Suddenly, I yelp as Owen elbows me playfully."
-    "突然間我就被Owrn一記輕輕的肘擊嚇到出聲。"
+    ""
 
 # game/day1.rpy:556
 translate zhHans start_7ec86d82:
 
     # o "Heh, what a cute guy. Is he single?"
-    o "嘿，多麼可愛的一個人啊。他是單身嗎？"
+    o ""
 
 # game/day1.rpy:558
 translate zhHans start_be5655e9:
 
     # m "Dude, we just met. I don't know a thing about him."
-    m "老兄！我們只是剛認識而已。我不了解他的。"
+    m ""
 
 # game/day1.rpy:559
 translate zhHans start_96e64114:
 
     # "(Please don't ask him out.{w=.3} Phillip looked like he might snap.)"
-    "（求求不要約他出去。{w=.3}Phillip看起來會發飆的。）"
+    ""
 
 # game/day1.rpy:561
 translate zhHans start_1c3b41b5:
 
     # o "Oh bummer. Whatever, I'm sure we'll get to know each other {i}real{/i} well after a while."
-    o "啊，可惜了。總之，我肯定我們過了一段時間後一定能{i}好好{/i}認識彼此的。"
+    o ""
 
 # game/day1.rpy:562
-translate zhHans start_33d7258d:9
+translate zhHans start_33d7258d:
 
     # o "Well anyway, I better show you the way to your dorm."
-    o "無論如何，我最好還是帶你去你的宿舍吧。"
+    o ""
 
 # game/day1.rpy:564
 translate zhHans start_60ec4d58:
