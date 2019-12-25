@@ -280,7 +280,7 @@ translate zhHans start_a2aa8f35:
 translate zhHans start_fdc661ac:
 
     # p "It's better than being miserable alone,{w=.3} at least."
-    p "至少，{w=.3}比孤独的悲惨强多了。"
+    p "至少，{w=.3}比自己愁愁不乐好得多了。"
 
 # game/day1.rpy:128
 translate zhHans start_e5e318c8:
@@ -526,7 +526,7 @@ translate zhHans start_84916762:
 translate zhHans start_6a8643c9:
 
     # p "Well,{w=.3} I do eat a little bit of dark chocolate on occasions."
-    p "嗯，{w=.3}我有时候会吃一点黑巧克力。"
+	    p "嗯，{w=.3}我有时候会吃一点黑巧克力。"
 
 # game/day1.rpy:210
 translate zhHans start_6dbc7fb3:
@@ -1620,91 +1620,91 @@ translate zhHans start_890b266b:
 translate zhHans start_1b640dae:
 
     # p "What?"
-    p ""
-
+    p "甚麼？"
+    
 # game/day1.rpy:540
 translate zhHans start_8b5c2163:
 
     # o "C'mon buddy, it'll be a good chance to get to know each other!"
-    o ""
+    o "來嘛老兄，這一定是一個好機會去讓我們互相了解對方！"
 
 # game/day1.rpy:541
 translate zhHans start_51d6e04b:
 
     # "Owen goes to put a friendly arm around Phillip, but the little guy instantly stiffens."
-    ""
+    "Owen搭着手到Phillip肩膀，頓時他整個人都僵硬，不好起來了。"
 
 # game/day1.rpy:543
 translate zhHans start_efb2d6fb:
 
     # p "Oh!{w=.3} I just remembered that I forgot something.{w=.3} I better go leave and get it!"
-    p ""
+    p "噢！{w=.3}我忽然想起我忘了一些東西{w=.3}我最好先離開一下去拿回它！"
 
 # game/day1.rpy:544
 translate zhHans start_48fa594e:
 
     # o "What did you forget?"
-    o ""
+    o "你忘了甚麼？"
 
 # game/day1.rpy:545
 translate zhHans start_dfe817a4:
 
     # p "Uh....{w=.3}I forgot!"
-    p ""
+    p "啊.... {w=.3}忘記了！"
 
 # game/day1.rpy:546
 translate zhHans start_2caff289:
 
     # p "Welp,{w=.3} time for me to leave."
-    p ""
+    p "那樣，{w=.3}是時候要出發了。"
 
 # game/day1.rpy:550
 translate zhHans start_c4e38f09:
 
     # p "I'll see you guys around!{p=.3}{size=-15}...I hope the fuck not-{/size}"
-    p ""
+    p "我們晚點再見！{p=.3}{size=-15}...TM的希望不見-"
 
 # game/day1.rpy:552
 translate zhHans start_366f3678:
 
     # "As Phillip strolls away, Owen stares at his retreating back, deep in thought."
-    ""
+    "Phillip離開後，Owen若有所思地盯着他離開的背影。
 
 # game/day1.rpy:554
 translate zhHans start_7ca2e195:
 
     # "Suddenly, I yelp as Owen elbows me playfully."
-    ""
+    "突然間我就被Owrn一記輕輕的肘擊嚇到出聲。"
 
 # game/day1.rpy:556
 translate zhHans start_7ec86d82:
 
     # o "Heh, what a cute guy. Is he single?"
-    o ""
+    o "嘿，多麼可愛的一個人啊。他是單身嗎？"
 
 # game/day1.rpy:558
 translate zhHans start_be5655e9:
 
     # m "Dude, we just met. I don't know a thing about him."
-    m ""
+    m "老兄！我們只是剛認識而已。我不了解他的。"
 
 # game/day1.rpy:559
 translate zhHans start_96e64114:
 
     # "(Please don't ask him out.{w=.3} Phillip looked like he might snap.)"
-    ""
+    "（求求不要約他出去。{w=.3}Phillip看起來會發飆的。）"
 
 # game/day1.rpy:561
 translate zhHans start_1c3b41b5:
 
     # o "Oh bummer. Whatever, I'm sure we'll get to know each other {i}real{/i} well after a while."
-    o ""
+    o "啊，可惜了。總之，我肯定我們過了一段時間後一定能{i}好好{/i}認識彼此的。"
 
 # game/day1.rpy:562
-translate zhHans start_33d7258d:
+translate zhHans start_33d7258d:9
 
     # o "Well anyway, I better show you the way to your dorm."
-    o ""
+    o "無論如何，我最好還是帶你去你的宿舍吧。"
 
 # game/day1.rpy:564
 translate zhHans start_60ec4d58:
