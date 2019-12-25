@@ -3457,331 +3457,331 @@ translate zhHans start_328aa76c:
 translate zhHans start_bc9c5cec:
 
     # "He glanced up and stared me up and down,{w=.3} as if he was mentally judging me."
-    "他"
+    "他把我從頭至腳都看一遍，{w=.3}似乎在打量着我。"
 
 # game/day1.rpy:1099
 translate zhHans start_5bcc2099:
 
     # s "You know Owen too?{w=.3} You sure surrounded yourself with a weird bunch."
-    s ""
+    s "你也認識Owen？{w=.3}你真是結識了很多「朋友」啊。"
 
 # game/day1.rpy:1102
 translate zhHans start_9405fdd2:
 
     # m "H-huh?{w=.3} We're not friends, exactly..."
-    m ""
+    m "啊-吓？{w=.3}實際上我跟他不是朋友啊..."
 
 # game/day1.rpy:1103
 translate zhHans start_7ba8be01:
 
     # s "At this point, I don't really care."
-    s ""
+    s "我不在意。"
 
 # game/day1.rpy:1104
 translate zhHans start_da893f12:
 
     # s "Now hurry the fuck up and order your food."
-    s ""
+    s "現在趕快TMD點完就是了。"
 
 # game/day1.rpy:1106
 translate zhHans start_10ea5c64:
 
     # "Despite the aggressive tone,{w=.3} he sounded slightly less hostile this time around..."
-    ""
+    "雖說他還是很衝，{w=.3}但起碼聽起來他今次沒有那麼充滿敵意。"
 
 # game/day1.rpy:1111
 translate zhHans start_7ddcc48b:
 
     # "Phillip and I quickly ordered our food and sat down."
-    ""
+    "Phillip和我匆匆地點好餐就坐下了。"
 
 # game/day1.rpy:1112
 translate zhHans start_5b9e590c:
 
     # "Far far away from the cash register. I can still feel Sissel glaring down my back."
-    ""
+    "當然坐在距離收銀處極遠的地方。我還能感覺到他正在狠狠盯着。"
 
 # game/day1.rpy:1116
 translate zhHans start_16a94325:
 
     # m "Eh, thanks for backing me up Phillip."
-    m ""
+    m "呃，謝謝你救了我Phillip。"
 
 # game/day1.rpy:1117
 translate zhHans start_3b311793:
 
     # p "No problem I guess? I didn't really do much."
-    p ""
+    p "沒問題吧？我也沒有做太多。"
 
 # game/day1.rpy:1118
 translate zhHans start_f44d60fa:
 
     # p "But [charname], you really shouldn't take other people's stuff..."
-    p ""
+    p "但[charname]，你真的不該拿走別人東西。"
 
 # game/day1.rpy:1119
 translate zhHans start_36ab33a0:
 
     # m "Got it. No more stealing, pinky promise."
-    m ""
+    m "收到。不偷東西，勾尾指發誓。"
 
 # game/day1.rpy:1120
 translate zhHans start_04cd251c:
 
     # p "Haha, I'll hold you to that."
-    p ""
+    p "哈哈，我會看着的。"
 
 # game/day1.rpy:1122
 translate zhHans start_37564df5:
 
     # m "By the way,{w=.3} have you met Sissel before?"
-    m ""
+    m "對了，{w=.3}你之前和Sissel見過的嗎？"
 
 # game/day1.rpy:1123
 translate zhHans start_9df6f520:
 
     # p "Sort of? {p=.3}I've met him a few times by Bradley Lake when I was little."
-    p ""
+    p "都算吧？{p=.3}我小時候在Bradley Lake遇見過他幾次。"
 
 # game/day1.rpy:1124
 translate zhHans start_17a6be57:
 
     # p "We talked a little, I never learned his name until now though."
-    p ""
+    p "我們偶爾會聊天，但我直到剛才也未知道他的名字。"
 
 # game/day1.rpy:1132
 translate zhHans start_275cb259:
 
     # m "Oh great, what do you want?"
-    m ""
+    m "啊，又想甚麼？"
 
 # game/day1.rpy:1133
 translate zhHans start_ed5d89e0:
 
     # e "Nothing..."
-    e ""
+    e "沒有..."
 
 # game/day1.rpy:1134
 translate zhHans start_c1fcb1ed:
 
     # e "Just wanted to let you know that Sissel charged you extra for that coffee."
-    e ""
+    e "只是想讓你知道Sissel在那咖啡多收了錢。"
 
 # game/day1.rpy:1135
 translate zhHans start_4f708d18:
 
     # m "....Eh, I guess I kinda deserved it."
-    m ""
+    m "....這是我應得的。"
 
 # game/day1.rpy:1136
 translate zhHans start_db256aa1:
 
     # e "...Do you want to make it up to him?"
-    e ""
+    e "...想補償他一下嗎？"
 
 # game/day1.rpy:1138
 translate zhHans start_d781c0a0:
 
     # m "Depends on what you have in mind."
-    m ""
+    m "看你所想吧。"
 
 # game/day1.rpy:1139
 translate zhHans start_bf9d111a:
 
     # e "Go buy Sissel something to eat."
-    e ""
+    e "去買點吃的給Sissel。"
 
 # game/day1.rpy:1140
 translate zhHans start_99d1f740:
 
     # e "The poor kid hasn't eaten since yesterday morning, and he can't really afford anything right now."
-    e ""
+    e "那個窮小孩由昨天起就未吃過東西，現在他大概也買不起甚麼了。"
 
 # game/day1.rpy:1141
 translate zhHans start_8bb1da50:
 
     # e "Plus it's almost his lunch break."
-    e ""
+    e "再說，現在是他的午餐時候。"
 
 # game/day1.rpy:1143
 translate zhHans start_7a63483c:
 
     # m "And how do you know that?"
-    m ""
+    m "那你怎知道的？"
 
 # game/day1.rpy:1144
 translate zhHans start_ebcd223b:
 
     # e "Because I'm nosy like that-"
-    e ""
+    e "因為我就是那麼多管閒-"
 
 # game/day1.rpy:1149
 translate zhHans start_e06de0cd:
 
     # s "It's you again."
-    s ""
+    s "又是你了。"
 
 # game/day1.rpy:1150
 translate zhHans start_2d9801a4:
 
     # s "Uh, thanks for returning my wallet earlier."
-    s ""
+    s "呃，謝謝你先前還錢包給我。"
 
 # game/day1.rpy:1151
 translate zhHans start_0ab95826:
 
     # s "Really, it meant a lot. It's nice to see people being nice for once."
-    s ""
+    s "真的，這對我來說很重要。看到人們難得能友善待人真好。"
 
 # game/day1.rpy:1159
 translate zhHans start_1c5593b3:
 
     # p "Wow [charname], being a good Samaritan on your first day?"
-    p ""
+    p "哇！[charname]，第一次上學就當了一回好心人？"
 
 # game/day1.rpy:1160
 translate zhHans start_663d0feb:
 
     # m "Ahah, just doing my best."
-    m ""
+    m "啊哈，我只是盡我本分而已。"
 
 # game/day1.rpy:1161
 translate zhHans start_f3e28590:
 
-    # s "-!!!!!{p}......It's you."
-    s ""
+    # s "-!!!!{p=.3}It's you....."
+    s "-！！！{p=.3}是你..."
 
 # game/day1.rpy:1162
 translate zhHans start_3afc4857:
 
     # p "Huh? {p=.3}Oh! You're that kid who's always by the lake!"
-    p ""
+    p "吓？{p=.3}喔！你是那個經常在湖邊的小孩！"
 
 # game/day1.rpy:1163
 translate zhHans start_3210d95b:
 
     # s "And you're that kid who always hangs out near that old wishing well."
-    s ""
+    s "而你是那個經常在許願井旁徘徊的貓！"
 
 # game/day1.rpy:1165
 translate zhHans start_d0e835d5:
 
     # "I glanced between the two of them,{w=.3} a bit bewildered."
-    ""
+    "我雙眼在他們之間徘徊着，{w=.3}有點困惑。""
 
 # game/day1.rpy:1166
 translate zhHans start_6f110747:
 
     # "Did these two know each other?"
-    ""
+    "他們倆是認識的嗎？"
 
 # game/day1.rpy:1168
 translate zhHans start_6d24d5df:
 
     # "Phillip chuckled before extending an inviting hand towards Sissel."
-    ""
+    "Phillip咯咯地笑了一下，其後伸出他那歡迎的手。"
 
 # game/day1.rpy:1170
 translate zhHans start_27675408:
 
     # p "Nice to finally meet you properly.{p=.3}My name's Phillip by the way."
-    p ""
+    p "很高興終於正式認識你。{p=.3}我的名字是Phillip。"
 
 # game/day1.rpy:1171
 translate zhHans start_c54530c7:
 
     # s "Heh, likewise. {p=.3}The name's Sissel."
-    s ""
+    s "哈，彼此彼此。{p=.3}我名字是Sissel。"
 
 # game/day1.rpy:1172
 translate zhHans start_8820f70d:
 
     # p "Oh!{w=.3} Speaking of which..."
-    p ""
+    p "啊！{w=.3}說起來..."
 
 # game/day1.rpy:1174
 translate zhHans start_9e2fd0e1:
 
     # "Phillip handed Sissel an ID card."
-    ""
+    "Phillip交給了Sissel一張學生證。"
 
 # game/day1.rpy:1175
 translate zhHans start_9a7ff305:
 
     # p "You missed orientation earlier, didn't you? {p=.3}Owen asked me to give you your ID card."
-    p ""
+    p "你錯過了迎新會，對嗎？{p=.3}Owen叫我去把這張學生證交給你。"
 
 # game/day1.rpy:1176
 translate zhHans start_ef19bd9d:
 
     # "There was also a note attached to it. Sissel took a moment to read it before looking back to us."
-    ""
+    "學生證上黏着一張小紙條。Sissel很快看了一下後就看點回我們。"
 
 # game/day1.rpy:1178
 translate zhHans start_86eae429:
 
     # s "...You guys came all the way out here to deliver this?"
-    s ""
+    s "...你們走那麼遠就是為了送這張學生證？"
 
 # game/day1.rpy:1179
 translate zhHans start_9e1affd1:
 
     # s "By the way, what are your names?"
-    s ""
+    s "話說，你叫啥？"
 
 # game/day1.rpy:1181
 translate zhHans start_0cbd68dc:
 
     # m "Me? I'm [charname]."
-    m ""
+    m "我？我是[charname]。"
 
 # game/day1.rpy:1182
 translate zhHans start_8fb82a48:
 
     # s "Well [charname] and Phillip, thank you. I appreciate it."
-    s ""
+    s "好，[charname]和Phillip，謝謝你們。我很感激。"
 
 # game/day1.rpy:1184
 translate zhHans start_77e7d6d8:
 
     # s "Oh, Phillip, you're Owen's roommate right?"
-    s ""
+    s "喔，Phillip，你是Owen的室友對嗎？"
 
 # game/day1.rpy:1185
 translate zhHans start_b66b4c3a:
 
     # p "Uh yeah."
-    p ""
+    p "啊，對。"
 
 # game/day1.rpy:1186
 translate zhHans start_355e27e5:
 
     # s "Let me know if he ever gives you any trouble."
-    s ""
+    s "若果他給你任何煩惱，到時告訴我。"
 
 # game/day1.rpy:1187
 translate zhHans start_d53c5b70:
 
     # s "I'll kick his ass for you."
-    s ""
+    s "我會替你好好教訓他一頓的。"
 
 # game/day1.rpy:1189
 translate zhHans start_fd4d3980:
 
     # p "Ha,{w=.3} I might take you up on that offer."
-    p ""
+    p "嗯，{w=.3}我大概也要你幫幫忙了。"
 
 # game/day1.rpy:1191
 translate zhHans start_a95b147d:
 
     # m "I guess you and Owen know each other too?"
-    m ""
+    m "我猜你跟Owen亦都認識？"
 
 # game/day1.rpy:1192
 translate zhHans start_6076ebe4:
 
     # s "We've been friends for a looooooong while."
-    s ""
+    s "我們從很久久久久久以前就已經是朋友了"
 
 # game/day1.rpy:1193
 translate zhHans start_4ce7eabc:
