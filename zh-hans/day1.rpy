@@ -34,7 +34,7 @@ translate zhHans start_6f1ff078:
 translate zhHans start_1f6319cd:
 
     # "Just be yourself,{w=.3} and you'll do fine."
-    "做你自己就好了，{w=.3}这样你便能得到满意的结果。"
+    "做你自己，{w=.3}那就行了。"
 
 # game/day1.rpy:14
 translate zhHans start_8e536f99:
@@ -82,7 +82,7 @@ translate zhHans start_cbc208c8:
 translate zhHans start_f0e6dc25:
 
     # "I've never been to this side of town before, {w=.3}but it looks like I'll have to get used to living here."
-    "我以前从没来过城的这边 {w=.3}但总感觉我已经习惯了在这里生活。"
+    "我从没来过城的这边 {w=.3}但看来我得习惯住在这里了。"
 
 # game/day1.rpy:40
 translate zhHans start_e96ba9e0:
@@ -124,13 +124,13 @@ translate zhHans start_5d215e1f:
 translate zhHans start_d150adcf:
 
     # "I better hurry up and get inside.{p=.5}I doubt strolling in late would leave a good first impression."
-    "我得赶紧进学校去了。{p=.5}拖迟到了可不会留下好印象。"
+    "我得赶紧进学校去了。{p=.5}迟到了可不会留下好印象。"
 
 # game/day1.rpy:50
 translate zhHans start_fc706561:
 
     # "As I approach the front doors, the air suddenly turns frigid."
-    "当我走近大门时，空气中传来一阵刺骨的感觉。"
+    "当我走近大门时，空气中忽然传来一阵刺骨的感觉。"
 
 # game/day1.rpy:55
 translate zhHans start_b1a79d9c:
@@ -190,7 +190,7 @@ translate zhHans start_76eea6b7:
 translate zhHans start_f99ef94a:
 
     # "I try banging on the glass again."
-    "我继续敲打门玻璃。"
+    "我继续敲打起门玻璃。"
 
 # game/day1.rpy:90
 translate zhHans start_8dde82f8:
@@ -1475,7 +1475,7 @@ translate zhHans start_927115fb:
 translate zhHans start_117f1ca5:
 
     # "A large ugly rat hobbles towards us, his face scrunched up in hostility.{p=.1}He looked like the type of guy that constantly started bar fights."
-    "一隻巨大又*樣衰的老鼠跛著雙腳朝我們走過來。他的醜臉因為憤怒而扭曲起來。{p=.1}他看起來像那種必定會在酒吧打群架的人。"
+    "一隻巨大又*樣衰的老鼠跛着雙腳朝我們走過來。他的醜臉因為憤怒而扭曲起來。{p=.1}他看起來像那種必定會在酒吧打群架的人。"
 #*醜陋不夠氣氛
 
 # game/day1.rpy:504
@@ -1506,7 +1506,7 @@ translate zhHans start_c50b9f4b:
 translate zhHans start_664eda38:
 
     # "The man (I think he's a teacher?) turns towards me and Phillip with an upturned nose."
-    "這個男人（應該是老師？）掛著朝天鼻轉向Phillip跟我。"
+    "這個男人（應該是老師？）掛着朝天鼻轉向Phillip跟我。"
 
 # game/day1.rpy:511
 translate zhHans start_c3d23cdf:
@@ -1542,79 +1542,79 @@ translate zhHans start_81c06c2f:
 translate zhHans start_98059bfa:
 
     # "Mr. Dolores huffed and shook his head."
-    "Mr. Dolores憤怒地搖一搖頭。"
+    "Mr. Dolores憤怒地搖着頭。"
 
 # game/day1.rpy:518
 translate zhHans start_3bc2fa72:
 
     # d "Whatever. At least you folks weren't like that other kid that didn't even show up."
-    d ""
+    d "管他的，至少你們不像那個連身影都不見的死傢伙。"
 
 # game/day1.rpy:519
 translate zhHans start_99850f4e:
 
     # d "Here, take your student ID cards and unpack at your dorms. {p=.3}And Owen, make yourself useful and be a tour guide or something."
-    d ""
+    d "這裏，拿好你們的學生證，把行李放好在你們自己的宿舍裏，{p=.3}還有Owen，找事情去做啦，當有用的導遊啊，那些啦。"
 
 # game/day1.rpy:520
 translate zhHans start_3cb8481d:
 
     # "Mr. Dolores tossed the ID cards at us and stomped away."
-    ""
+    "Mr. Dolores將學生證擲給我們後便憤怒地離開了。"
 
 # game/day1.rpy:522
 translate zhHans start_43ea8705:
 
     # p "Wow...{w=.3}That guy was...."
-    p ""
+    p "嘩...{w=.3}那個人真是..."
 
 # game/day1.rpy:523
 translate zhHans start_f1d0d3e6:
 
     # m "A douche?"
-    m ""
+    m "死八婆？"
 
 # game/day1.rpy:525
 translate zhHans start_40c5c3f4:
 
     # o "Eheh, sorry about the first impression, guys. {p=.3}This is a good school, really."
-    o ""
+    o "嘻，不好意思給了你們一個壞印象了。{p=.3}但這間學校是很好的，真的！"
 
 # game/day1.rpy:526
 translate zhHans start_a244b3a4:
 
     # o "Dolores is just a jackass."
-    o ""
+    o "Dolores只不過是一個混蛋而已。"
 
 # game/day1.rpy:527
 translate zhHans start_3ab5d08c:
 
     # "I heaved a tired sigh. It hasn't even been an hour and this school's already been a crazy experience."
-    ""
+    "我疲勞地嘆了口氣。這還未到一小時，這學校就已經淨是瘋狂的事情了。"
 
 # game/day1.rpy:528
 translate zhHans start_8a472629:
 
     # "Shaking my head, I glanced at my ID card."
-    ""
+    "搖了自己的頭，我瞥了一下我自己的學生證。"
 
 # game/day1.rpy:530
 translate zhHans start_9e230fa5:
 
     # "Ugh, I probably shouldn't have sent in a selfie as my ID photo.{p=.3}What was I thinking?"
-    ""
+    "呃...看來我不應該在表上發我的自拍照...{p=.3}我那時究竟在想甚麼？"
 
 # game/day1.rpy:532
 translate zhHans start_5002641c:
 
     # m "By the way Owen, could you show us where our dorms are?"
-    m ""
+    m "話說Owen你可以帶領我們去我們的宿舍嗎？"
 
 # game/day1.rpy:536
 translate zhHans start_890b266b:
 
     # o "Of course!{p=.3}And Phillip and I can get some \"roommate bonding\" time too~"
-    o ""
+    o "當然！{p=.3}屆時我還能和Phillip有一個「舍友交際」時間～"
 
 # game/day1.rpy:538
 translate zhHans start_1b640dae:
