@@ -412,71 +412,71 @@ translate zhHant strings:
 
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
-    new ""
+    new "你肯定？"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new ""
+    new "你肯定你要忘記這個回憶？"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "你肯定你要覆蓋這個曾經的回憶？"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "回憶過去將會失去目前的記憶。你肯定要這樣做？"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
-    new ""
+    new "你肯定要離開？"
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "你肯定要回到{i}那處{/i}？這會抹除你還沒回想到的記憶。"
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
-    new ""
+    new "你肯定"
 
     # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "你肯定要跳過這些經歷過的回憶嗎？"
 
     # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "你肯定要直接跳到下一個抉擇？"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "你肯定要跳過那些未知的回憶，直接到達下一個抉擇？"
 
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
-    new ""
+    new "你的回憶照不復再了。"
 
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
-    new ""
+    new "你的回憶照已記錄為%s。"
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "跳過中..."
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "這個程式使用一個免費軟體，附帶一連串授權包括MIT特許條款和GNU較寬鬆公共授權條款。完整列表，包括各授權連結和其附屬軟件皆可以從{a=https://www.renpy.org/l/license}此連結{/a}中找到。"
 
     # renpy/common/00preferences.rpy:233
     old "display"
-    new ""
+    new "顯示"
 
     # renpy/common/00preferences.rpy:245
     old "transitions"
-    new ""
+    new "過渡動畫"
 
     # renpy/common/00preferences.rpy:254
     old "skip transitions"
-    new ""
+    new "跳過動畫"
 
     # renpy/common/00preferences.rpy:256
     old "video sprites"
@@ -488,55 +488,55 @@ translate zhHant strings:
 
     # renpy/common/00preferences.rpy:274
     old "text speed"
-    new ""
+    new "回憶中的速度"
 
     # renpy/common/00preferences.rpy:282
     old "joystick"
-    new ""
+    new "操縱桿"
 
     # renpy/common/00preferences.rpy:282
     old "joystick..."
-    new ""
+    new "遊戲桿支援..."
 
     # renpy/common/00preferences.rpy:289
     old "skip"
-    new ""
+    new "跳過"
 
     # renpy/common/00preferences.rpy:292
     old "skip unseen [text]"
-    new ""
+    new "跳過未知的[text] "
 
     # renpy/common/00preferences.rpy:297
     old "skip unseen text"
-    new ""
+    new "跳過未知的回憶"
 
     # renpy/common/00preferences.rpy:299
     old "begin skipping"
-    new ""
+    new "開始跳過"
 
     # renpy/common/00preferences.rpy:303
     old "after choices"
-    new ""
+    new "抉擇過後"
 
     # renpy/common/00preferences.rpy:310
     old "skip after choices"
-    new ""
+    new "抉擇後開始跳過"
 
     # renpy/common/00preferences.rpy:312
     old "auto-forward time"
-    new ""
+    new "快進時間"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward"
-    new ""
+    new "快進"
 
     # renpy/common/00preferences.rpy:333
     old "Auto forward"
-    new ""
+    new "快進"
 
     # renpy/common/00preferences.rpy:336
     old "auto-forward after click"
-    new ""
+    new "按後快進"
 
     # renpy/common/00preferences.rpy:345
     old "automatic move"
@@ -548,11 +548,11 @@ translate zhHant strings:
 
     # renpy/common/00preferences.rpy:363
     old "voice sustain"
-    new ""
+    new "聲音{i}回響{/i}"
 
     # renpy/common/00preferences.rpy:372
     old "self voicing"
-    new ""
+    new "讀出文字"
 
     # renpy/common/00preferences.rpy:381
     old "clipboard voicing"
@@ -564,7 +564,7 @@ translate zhHant strings:
 
     # renpy/common/00preferences.rpy:399
     old "emphasize audio"
-    new ""
+    new "突出音效"
 
     # renpy/common/00preferences.rpy:408
     old "rollback side"
@@ -588,39 +588,39 @@ translate zhHant strings:
 
     # renpy/common/00preferences.rpy:433
     old "font size"
-    new ""
+    new "文字大小"
 
     # renpy/common/00preferences.rpy:441
     old "font line spacing"
-    new ""
+    new "行距"
 
     # renpy/common/00preferences.rpy:460
     old "music volume"
-    new ""
+    new "音樂音量"
 
     # renpy/common/00preferences.rpy:461
     old "sound volume"
-    new ""
+    new "按鍵音量"
 
     # renpy/common/00preferences.rpy:462
     old "voice volume"
-    new ""
+    new "聲音音量"
 
     # renpy/common/00preferences.rpy:463
     old "mute music"
-    new ""
+    new "音樂已靜音"
 
     # renpy/common/00preferences.rpy:464
     old "mute sound"
-    new ""
+    new "按鍵已靜音"
 
     # renpy/common/00preferences.rpy:465
     old "mute voice"
-    new ""
+    new "聲音已靜音"
 
     # renpy/common/00preferences.rpy:466
     old "mute all"
-    new ""
+    new "全部皆已靜音"
 
     # renpy/common/00preferences.rpy:547
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
@@ -636,11 +636,11 @@ translate zhHant strings:
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "操縱桿"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "開發者菜單"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -648,59 +648,59 @@ translate zhHant strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "重載(Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "控制台(Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "變量查看"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "圖片位置查看"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "檔案列表"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "秀出圖片存取記錄(F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "隱藏圖片存取記錄(F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "圖片種類"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[name] [attributes](隱藏)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new ""
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "無物件可供檢視"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "隱藏{b}刪除{/b}"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "秀出{b}刪除{/b}"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "回到開發者菜單"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
@@ -708,11 +708,11 @@ translate zhHant strings:
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new ""
+    new "滑鼠位置：%r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "按右鍵或者Esc鍵退出"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -720,11 +720,11 @@ translate zhHant strings:
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "位置已複製至剪貼簿"
 
     # renpy/common/_developer/developer.rpym:507
     old "Type to filter: "
-    new ""
+    new "生字過濾："
 
     # renpy/common/_developer/developer.rpym:635
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
@@ -1048,7 +1048,7 @@ translate zhHant strings:
 
     # renpy/common/00gamepad.rpy:66
     old "Skip (A)"
-    new ""
+    new "跳過(A)"
 
     # renpy/common/00gamepad.rpy:69
     old "Back (B)"
