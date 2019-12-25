@@ -2065,7 +2065,7 @@ translate zhHans start_4115770b:
 translate zhHans start_81b0eeba:
 
     # "Come to think of it,{w=.3} surrounding myself with other people did a pretty good job of drowning out that sinking feeling in my chest..."
-    "現在一想，{w=.3}和其他人一起時似乎能蓋過這種胸沉下來的感覺..."
+    "現在一想，{w=.3}讓自己沉浸在眾人中似乎能很好地蓋過我心中的鬱悶..."
 
 # game/day1.rpy:681
 translate zhHans start_ef0050d6:
@@ -2137,343 +2137,343 @@ translate zhHans start_244df020:
 translate zhHans start_c78ac781:
 
     # "The Photography classroom is heavy with the smell of fresh paint."
-    ""
+    "攝影課的課室充斥着濃鬱的顏料氣味。"
 
 # game/day1.rpy:708
 translate zhHans start_afd86abc:
 
     # "It looks like they share a room with the rest of the art students."
-    ""
+    "似乎那些人跟其他藝術科的學生共用一個課室。"
 
 # game/day1.rpy:709
 translate zhHans start_0dcca151:
 
     # "This place is rustling with activity."
-    ""
+    "這裏真是充滿着各種活動。"
 
 # game/day1.rpy:711
 translate zhHans start_b62405b1:
 
     # "???" "You there."
-    "???" ""
+    "???" "那邊那個。"
 
 # game/day1.rpy:712
 translate zhHans start_f16b5e5b:
 
     # "???" "Do you happen to be [charname]?"
-    "???" ""
+    "???" "你該會不會剛好就是[charname]？"
 
 # game/day1.rpy:714
 translate zhHans start_c4897778:
 
     # m "Uh, yes ma'am!"
-    m ""
+    m "呃，是的老師！"
 
 # game/day1.rpy:716
 translate zhHans start_31bf9b61:
 
     # c "I am Mrs. Corlisse, your Photography teacher for this month. Welcome."
-    c ""
+    c "我是Mrs. Corlisse，你將來這個月的攝影科老師。歡迎。"
 
 # game/day1.rpy:717
 translate zhHans start_89b38038:
 
     # c "Before class starts, I have to make sure all students have possession of their own personal camera."
-    c ""
+    c "在課堂開始之前，我要確認大家是否都帶了自己的相機。"
 
 # game/day1.rpy:718
 translate zhHans start_5bbb0905:
 
     # c "Did you bring one as assigned by the class paperwork,{w=.3} Mr. [charname]?"
-    c ""
+    c "你有沒有跟着課程規章準備一個？{w=.3}[charname]。先生？"
 
 # game/day1.rpy:720
 translate zhHans start_736101e1:
 
     # m "!!?!!?!"
-    m ""
+    m "！？！？"
 
 # game/day1.rpy:721
 translate zhHans start_b5c31e9d:
 
     # m "We were supposed to bring our own camera?"
-    m ""
+    m "我們要帶我們的相機過來？？"
 
 # game/day1.rpy:723
 translate zhHans start_7cc50367:
 
     # c "You mean to say you don't know?"
-    c ""
+    c "你是告訴我，你不知道？"
 
 # game/day1.rpy:724
 translate zhHans start_8cf1c74f:
 
     # c "Did you bother reading the paperwork before coming here,{w=.3} Mr. [charname]?"
-    c ""
+    c "你來之前有沒有看過我們的規章呢？{w=.3}[charname]先生？"
 
 # game/day1.rpy:726
 translate zhHans start_bf859ce3:
 
     # m "Uuuuhhhh..."
-    m ""
+    m "啊......"
 
 # game/day1.rpy:727
 translate zhHans start_1c381937:
 
     # "Shit, great first impression already."
-    ""
+    "淦，這第一印象真好。"
 
 # game/day1.rpy:729
 translate zhHans start_f1d5508b:
 
     # c "No matter, we have several spares for...less attentive students such as you."
-    c ""
+    c "沒關係，我們有幾個備用的，給那些...不細心的學生，例如你。" 
 
 # game/day1.rpy:731
 translate zhHans start_28812ff8:
 
     # "Do you hear something breaking?{p}Oh wait, it's just my self-esteem. No big deal."
-    ""
+    "你有聽到甚麼碎了？{p}喔等等，只不過是我的自尊而已。沒甚麼關係的。"
 
 # game/day1.rpy:733
 translate zhHans start_aab2fc0c:
 
     # "Mrs. Corlisse rummages through several cabinets before pulling out an old, faded camera."
-    ""
+    "Mrs. Corlisse翻箱倒櫃，終算找到了一個已然殘舊褪色的相機。"
 
 # game/day1.rpy:734
 translate zhHans start_284372db:
 
     # c "Hm, this will do."
-    c ""
+    c "嗯，這個該行。"
 
 # game/day1.rpy:735
 translate zhHans start_e8d04376:
 
     # c "Take this, Mr. [charname]. I expect you to take good care of it."
-    c ""
+    c "拿着這，[charname]先生。我期望你會好好保管它。"
 
 # game/day1.rpy:737
 translate zhHans start_d6909528:
 
     # "It feels pretty old and clunky."
-    ""
+    "這拿起來感覺也很老舊和笨重。"
 
 # game/day1.rpy:738
 translate zhHans start_b72e2a2e:
 
     # "Heck, this thing's probably older than I am."
-    ""
+    "天啊，這相機可能還老過我自己啊。"
 
 # game/day1.rpy:742
 translate zhHans start_70e1123d:
 
     # "Student" "H-hey, isn't that the-?"
-    "Student" ""
+    "Student" "喂，這不就是-？"
 
 # game/day1.rpy:743
 translate zhHans start_9cc9e550:
 
     # "Other Student" "Yeah, that's the one alright..."
-    "Other Student" ""
+    "Other Student" "嗯，就是那個了。"
 
 # game/day1.rpy:744
 translate zhHans start_9c1f6241:
 
     # "Yet another Student" "That thing's cursed! What's Mrs. Corlisse thinking, giving that haunted thing to him?"
-    "Yet another Student" ""
+    "Yet another Student" "它是被詛咒的！究竟Mrs. Corlisse在想甚麼？給那個鬧鬼的他？"
 
 # game/day1.rpy:746
 translate zhHans start_8b3796c8:
 
     # c "Nonsense! I will not have any of this \"haunted\" talk in this classroom."
-    c ""
+    c "子不語怪力亂神！我不會讓這「鬧鬼說」出現在這課堂上。"
 
 # game/day1.rpy:747
 translate zhHans start_72990004:
 
     # c "That story is just a baseless rumor floating about the school."
-    c ""
+    c "那故事只不過是一個無稽的學園傳說而已！"
 
 # game/day1.rpy:749
 translate zhHans start_06850f11:
 
     # m "Cursed? What's that supposed to mean?"
-    m ""
+    m "被詛咒？究竟甚麼意思？"
 
 # game/day1.rpy:751
 translate zhHans start_1bcf7931:
 
     # "Student" "Uh, don't worry about it. You'll be fine."
-    "Student" ""
+    "Student" "喔，不用擔心。你會沒事的。"
 
 # game/day1.rpy:752
 translate zhHans start_5b029c82:
 
     # "Another Student" "Y-yeah!"
-    "Another Student" ""
+    "Another Student" "唔——對！"
 
 # game/day1.rpy:754
 translate zhHans start_820cbd45:
 
     # "Mrs. Corlisse scowls and ignores everyone."
-    ""
+    "她皺了皺眉，忽略了學生的話。"
 
 # game/day1.rpy:755
 translate zhHans start_64dfc547:
 
     # "She starts lecturing on the basics of photography, and the class settles down and starts taking notes."
-    ""
+    "她開始講解攝影的基礎，整個班級都靜下來，並開始摘下筆記。"
 
 # game/day1.rpy:756
 translate zhHans start_504d3ce9:
 
     # "Everyone keeps giving me weird looks though."
-    ""
+    "不過大家就不斷以非常奇怪的目光瞄着我就是了。"
 
 # game/day1.rpy:757
 translate zhHans start_2503de95:
 
     # "What's all this commotion over this old thing?"
-    ""
+    "這老東西究竟引起了甚麼騷動啊？"
 
 # game/day1.rpy:763
 translate zhHans start_47a6b68c:
 
     # "???" "Hey, it's not {i}{b}that{/b}{/i} old."
-    "???" ""
+    "???" "喂！這相機也沒有{i}{b}那麼{/b}{/i}老。"
 
 # game/day1.rpy:765
 translate zhHans start_1f85440e:
 
     # m "{size=+20}AAAAAAAAAAAAAAAHHH!!{/size}"
-    m ""
+    m "{size=+20}啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！{/size}"
 
 # game/day1.rpy:770
 translate zhHans start_3a11a0a2:
 
     # c "Mr. [charname]! Keep your voice down!"
-    c ""
+    c "[charname]！降低音量！"
 
 # game/day1.rpy:772
 translate zhHans start_f16d00cb:
 
     # m "S-sorry!"
-    m ""
+    m "對--對不起！！"
 
 # game/day1.rpy:773
 translate zhHans start_4ad18631:
 
     # m "T-t-this kid just popped out of nowhere."
-    m ""
+    m "這-這個小孩突然憑空冒出來..."
 
 # game/day1.rpy:775
 translate zhHans start_f41d097d:
 
     # "The class suddenly begins whispering rampantly."
-    ""
+    "頃刻整個班級都紛紛細聲討論起來。"
 
 # game/day1.rpy:776
 translate zhHans start_33363b1a:
 
     # "Student" "See? It's got him!"
-    "Student" ""
+    "Student" "見到他？它纏了他了！"
 
 # game/day1.rpy:777
 translate zhHans start_05e8ddf1:
 
     # "Another Student" "I knew that thing was haunted!"
-    "Another Student" ""
+    "Another Student" "我就知道那相機是被鬼纏的！"
 
 # game/day1.rpy:778
 translate zhHans start_af09f72a:
 
     # "Yet Another Student" "It's the ghost, isn't it?"
-    "Yet Another Student" ""
+    "Yet Another Student" "這是那個鬼魂，不是嗎？"
 
 # game/day1.rpy:779
 translate zhHans start_c471c5d4:
 
     # "Student" "Do you see him?"
-    "Student" ""
+    "Student" "你能見到他嗎？"
 
 # game/day1.rpy:781
 translate zhHans start_154e4fc5:
 
     # c "........."
-    c ""
+    c "........."
 
 # game/day1.rpy:782
 translate zhHans start_582cd4ea:
 
     # c "...Mr. [charname],{p}Let me explain something to you."
-    c ""
+    c "...[charname]先生，{p}讓我向你解釋一些事情。"
 
 # game/day1.rpy:783
 translate zhHans start_2ece4f7c:
 
     # c "I will not have any more of this supernatural trash in this classroom."
-    c ""
+    c "我可不會允許這超自然的垃圾存在於我的課堂上。"
 
 # game/day1.rpy:785
 translate zhHans start_9980ec54:
 
     # m "W-what?"
-    m ""
+    m "甚-甚麼？"
 
 # game/day1.rpy:787
 translate zhHans start_b4ea3036:
 
     # c "Countless other students have tried pulling the same trick you have."
-    c ""
+    c "無數學生都嘗試過你這個把戲。"
 
 # game/day1.rpy:788
 translate zhHans start_f54b9cec:
 
     # c "There is no ghost child haunting that camera."
-    c ""
+    c "這裏根本就沒有任何鬼魂小孩甚麼的在那相機裏。"
 
 # game/day1.rpy:789
 translate zhHans start_e0dabcd9:
 
     # c "If I hear another word of this, expect disciplinary action for disturbing my class."
-    c ""
+    c "若然讓我再聽到任何一個關於它的字，等着因擾亂課堂秩序的警告信吧。"
 
 # game/day1.rpy:790
 translate zhHans start_eebf1004:
 
     # c "Understand?"
-    c ""
+    c "瞭解？" 
 
 # game/day1.rpy:792
 translate zhHans start_3415cd0a:
 
     # m "W-wha-?"
-    m ""
+    m "啥-？"
 
 # game/day1.rpy:797
 translate zhHans start_c58c94b6:
 
     # "???" "It's probably best just to agree with her, [charname]."
-    "???" ""
+    "???" "最好還是答應她吧，[charname]。"
 
 # game/day1.rpy:799
 translate zhHans start_112b667a:
 
     # m "Huh?"
-    m ""
+    m "吓？"
 
 # game/day1.rpy:800
 translate zhHans start_d3612709:
 
     # m "Uuh, yes ma'am."
-    m ""
+    m "呃，明白了。"
 
 # game/day1.rpy:802
 translate zhHans start_d438f4c5:
 
     # c "Good, now sit down and take your notes."
-    c ""
+    c "很好。現在坐下，抄筆記。"
 
 # game/day1.rpy:804
 translate zhHans start_a73a8e94:
