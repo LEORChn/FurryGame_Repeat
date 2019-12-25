@@ -10,7 +10,7 @@ translate zhHans credits_4d0b830e:
 translate zhHans credits_fca6ee0a:
 
     # "{b}Author's Note{/b}:"
-    "{b}作者后记{/b}： ""你好！我是Shirokoi，是这部文字冒险游戏的作者与画师。""感谢你支持并体验Repeat！希望你喜欢它！"
+    "{b}作者后记{/b}：{p}你好！我是Shirokoi，是这部文字冒险游戏的作者与画师。{p}感谢你支持并体验Repeat！希望你喜欢它！"
 
 # game/credits.rpy:13
 translate zhHans credits_53a6aad7:
@@ -46,7 +46,7 @@ translate zhHans credits_9c06f299:
 translate zhHans credits_b1c55186:
 
     # "My social medias include {a=https://twitter.com/shirokoi}Twitter{/a} and {a=http://www.furaffinity.net/user/shirokoi/}Furaffinity!{/a}"
-    "{color=#FD8824}此版本中文翻译由Furontire字幕组提供{/color}""{color=#FD8824}汉化版本封装：Navigator Latex {/color}""{color=#FD8824}翻译：Simone Parker{/color}"
+    "{color=#FD8824}此版本中文翻译由Furontire字幕组提供{/color}{p}{color=#FD8824}汉化版本封装：Navigator Latex {/color}{p}{color=#FD8824}简体中文翻译：Simone Parker{/color}{p}{color=#FD8824}繁体中文翻译：Sissel online{/color}"
 
 # game/credits.rpy:19
 translate zhHans credits_2f31c90d:
