@@ -4309,217 +4309,219 @@ translate zhHans start_fed230d0:
 translate zhHans start_15e0e9a2:
 
     # "Well, might as well use this time to familiarize myself with the campus."
-    ""
+    "嗯...看來我還是善用這段時間來熟悉這間學院了。"
 
 # game/day1.rpy:1364
 translate zhHans start_88ab72e5:
 
     # "This place is going to be my home for the next month,{p=.1}I should probably explore around a little."
-    ""
+    "這裏是我這個月的家了，{p=.1}我應該要周圍探索一下。"
 
 # game/day1.rpy:1368
 translate zhHans start_37d60db0:
 
     # "It turns out Gerania Academy was huge, almost exactly like a college."
-    ""
+    "結果告訴我Gerania學院很大，大得如一間正常的中學。"
 
 # game/day1.rpy:1369
 translate zhHans start_72b65832:
 
     # "The area is pretty calming and serene{p=.1}and despite being in the middle of a big city,{p=.1}there's plenty of greenery everywhere."
-    ""
+    "這裏真是2非常恬靜，令人安心。{p=.1}而且雖說這坐立在大城市的中央，{p=.1}然而這裏周圍都有綠地。"
 
 # game/day1.rpy:1370
 translate zhHans start_e3a4757f:
 
     # "The school courtyard was a popular chill-out place for students, it seemed."
-    ""
+    "在學院中央的小庭園貌似是學生間出名可以來放鬆冷靜，放下身子的地方。"
 
 # game/day1.rpy:1371
 translate zhHans start_530417a0:
 
     # "Some were relaxing on the grass while others grouped up around park benches."
-    ""
+    "其中一些在草地上放鬆自己，一些就在那裏的長凳聚在一起。"
 
 # game/day1.rpy:1372
 translate zhHans start_3aa606ad:
 
     # "I can see why people like this courtyard,{p=.1}I haven't felt so stress-free since I arrived here."
-    ""
+    "我看得出為何他們那麼喜歡這個庭園，{p=.1}我亦從沒試過感到那麼輕鬆，沒壓力。"
 
 # game/day1.rpy:1374
 translate zhHans start_e1559fcb:
 
     # "Suddenly, something wet plopped onto my nose and I blink in surprise."
-    ""
+    "忽然，有甚麼濕的啵一聲的碰到我的鼻子。我被它嚇到地眨一眨眼。"
 
 # game/day1.rpy:1379
 translate zhHans start_e084de28:
 
     # "There were bubbles floating down from the sky."
-    ""
+    "在天空中，有很多的泡泡正從天上落下。"
 
 # game/day1.rpy:1380
 translate zhHans start_89b99f4b:
 
     # "I glance up and see a small figure at the roof of my dorm building,{w=.3}blowing gentle trails of bubbles that danced across campus."
-    ""
+    "我往上瞅一眼，見到一個人在我宿舍的天台上，{w=.3}輕柔地吹着一列列在校園中飄舞着的泡泡。"
 
 # game/day1.rpy:1381
 translate zhHans start_4f888277:
 
     # "The bubbles almost seemed to glow, decorating the air with the light of the brilliant sunset."
-    ""
+    "那些泡泡猶如在爍爍生輝，把整個天空都用莊麗的日落遍地裝飾，點綴着。"
 
 # game/day1.rpy:1383
 translate zhHans start_5020c04a:
 
     # "Curiosity welled up inside me, and I decided to make my way up to the roof."
-    ""
+    "好奇心即時填滿了我的心坎，於是我決定上屋頂一探究竟。"
 
 # game/day1.rpy:1387
 translate zhHans start_205d886e:
 
     # "Wow......{p=.1}The view is beautiful from up here."
-    ""
+    "哇......{p=.1}這裏的景觀真的很美..."
 
 # game/day1.rpy:1388
 translate zhHans start_ff835302:
 
     # "I made my way to the edge of the roof and see none other than Phillip."
-    ""
+    "我來到了屋頂的邊緣，見到的不是其他人，是Phillip。"
 
 # game/day1.rpy:1389
 translate zhHans start_eb2a8289:
 
     # "He was sitting on a bench with giant piles of textbooks and papers scattered around him."
-    ""
+    "他正坐在屋頂的長凳上，周邊放滿了一大堆教科書和雜紙。"
 
 # game/day1.rpy:1390
 translate zhHans start_4ad10b16:
 
     # "The floor was littered with papers filled to the brim with homework assignments."
-    ""
+    "地上，乃至在邊邊上佈滿了垃圾似的功課，作業和各式各樣的紙張。"
 
 # game/day1.rpy:1395
 translate zhHans start_0841c05e:
 
     # "Phillip notices me approaching and gives me a small, tired smile."
-    ""
+    "Phillip很快留意到我在附近，給了我一個小小，疲憊的笑容。"
 
 # game/day1.rpy:1399
 translate zhHans start_3f7e62f7:
 
     # p "Oh hello [charname].{p=.1}How was your date with Sissel?"
-    p ""
+    p "喔好[charname]。{p=.1你跟Sissel的約會進展如何？"
 
 # game/day1.rpy:1400
 translate zhHans start_76a8cbc0:
 
     # m "W-what?!{p=.1}It wasn't a date! We were just hanging out!"
-    m ""
+    m "啥-甚麼？{p=.1}那不是約會！我們只是去...打發時間而已！"
 
 # game/day1.rpy:1401
 translate zhHans start_8121b64d:
 
     # p "Haha I'm just joking.{w=.3} Glad to see you guys get along though (I think?)."
-    p ""
+    p "哈哈，我開玩笑而已。{w=.3}真高興你們能夠相處得不錯(我猜？🤔）"
 
 # game/day1.rpy:1407
 translate zhHans start_822767fe:
 
     # "Phillip giggled to himself and continued blowing bubbles over the edge of the roof,{p=.1}descending gently down to onlookers in the courtyard."
-    ""
+    "Phillip輕輕笑了一下，就繼續在屋頂邊緣吹起泡泡，{p=.1}讓其慢慢降落在下方庭院的學生。"
 
 # game/day1.rpy:1408
 translate zhHans start_dafa3e1b:
 
     # m "So uh...what are you doing up here Phillip?"
-    m ""
+    m "所以呃...Phillip你在這上面幹甚麼啊？"
 
 # game/day1.rpy:1412
 translate zhHans start_1abe1c2d:
 
     # "He doesn't answer."
-    ""
+    "他沒有回應。"
 
 # game/day1.rpy:1413
 translate zhHans start_4dbdd6ab:
 
     # "The two of us watch in silence as Phillip's bubbles float several stories down to other students and visitors,{p=.1}much to their delight."
-    ""
+    "我們倆靜靜地看着他的泡泡在飄過幾個樓層後降落到那些學生和訪客中，{p=.1}享受着他們的物外之趣。
 
 # game/day1.rpy:1414
 translate zhHans start_73dbabfa:
 
     # "Giggles and laughs echo up to us as some more playful students chase and bat the bubbles."
-    ""
+    "各種各樣的歡笑聲在一些貪玩的學生刻意追逐和戳破那些泡泡下一路迴響着到我們身處的屋頂。"
 
 # game/day1.rpy:1415
 translate zhHans start_42de08e1:
 
     # "I look to Philip and see his exhausted and worn face break out into a small smile."
-    ""
+    "我望着Phillip，他那疲累無比的臉龐總算露出了一絲微笑。"
 
 # game/day1.rpy:1417
 translate zhHans start_5b8ccdbc:
 
     # p "....I have trouble sleeping sometimes.{w=.3} Too many thoughts in my head."
-    p ""
+    p "....我不時會有失眠問題。{w=.3}實在有太多{i}思緒{/i}在我腦中了。"
 
 # game/day1.rpy:1418
 translate zhHans start_15de2c60:
 
     # p "Sometimes I'd be trying to work on stuff,{w=.3} but then bad thoughts and memeories just crawl into my skull."
-    p ""
+    p "有時我會嘗試轉向試試做些事，{w=.3}但那些壞想法和不好的回憶總會再次鑽上我的脊骨。"
+    #    *有沒有似曾相識？
+    #    *你能感覺到你的罪爬上了你的脊骨。
 
 # game/day1.rpy:1419
 translate zhHans start_5cab71e9:
 
     # p "Then I'd spend the rest of the day feeling miserable for no good reason."
-    p ""
+    p "最終我就會在剩餘的一天中因為這不為好的原因而沮喪，愁眉苦臉。"
 
 # game/day1.rpy:1421
 translate zhHans start_4d88dab3:
 
     # "My chest lurched slighty.{w=.3} His words hit a little too close for comfort."
-    ""
+    "我的胸膛微微顫動。{w=.3}他的話有點感覺太過冷靜，放心了。"
 
 # game/day1.rpy:1422
 translate zhHans start_45b4b341:
 
     # m "That sounds....."
-    m ""
+    m "這聽來..."
 
 # game/day1.rpy:1423
 translate zhHans start_bcea41c2_1:
 
     # m "Are you doing okay?"
-    m ""
+    m "你還好吧？"
 
 # game/day1.rpy:1424
 translate zhHans start_0dde7994:
 
     # "Phillip shrugged tiredly."
-    ""
+    "Phillip委頓地聳肩。"
 
 # game/day1.rpy:1425
 translate zhHans start_922c318b:
 
     # p "I'm fine,{w=.3} it's just a thing I gotta deal with."
-    p ""
+    p "我很好。{w=.3}這只是一件我遲早要面對的事。"
 
 # game/day1.rpy:1430
 translate zhHans start_21f74bda:
 
     # "He gestured towards the vast view of the cityscape under the sunset."
-    ""
+    "他指向那夕陽下模糊而廣闊的市景。"
 
 # game/day1.rpy:1431
 translate zhHans start_1729ea72:
 
     # "The sky and horizon was bathed in beautiful shades of red and orange."
-    ""
+    "天空和天際線沐浴在美麗的紅橙兩色中。"
 
 # game/day1.rpy:1433
 translate zhHans start_d82e24fc:
