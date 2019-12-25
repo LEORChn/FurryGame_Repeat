@@ -250,13 +250,13 @@ translate zhHans start_c9471863:
 translate zhHans start_1875932c:
 
     # "Me" "Sounds better than standing around clueless."
-    "Me" "听起来比在这里傻等好多了。"
+    "我" "听起来比在这里傻等好多了。"
 
 # game/day1.rpy:108
 translate zhHans start_53a820aa:
 
     # "Me" "Thanks man, you’re a real lifesaver."
-    "Me" "谢谢，你可真是个大救星。"
+    "我" "谢谢，你可真是个大救星。"
 
 # game/day1.rpy:110
 translate zhHans start_9d91492a:
@@ -520,13 +520,13 @@ translate zhHans start_7b06fb3a:
 translate zhHans start_84916762:
 
     # m "Are you telling me you don't like {i}chocolate?{/i}"
-    m "你是说你不喜欢{i}巧克力！{/i}"
+    m "你是说你不喜欢{i}巧克力{/i}？！"
 
 # game/day1.rpy:209
 translate zhHans start_6a8643c9:
 
     # p "Well,{w=.3} I do eat a little bit of dark chocolate on occasions."
-	    p "嗯，{w=.3}我有时候会吃一点黑巧克力。"
+	    p "那，{w=.3}我有时候也会吃一点黑巧克力。"
 
 # game/day1.rpy:210
 translate zhHans start_6dbc7fb3:
@@ -549,7 +549,7 @@ translate zhHans start_ffec7601:
 # game/day1.rpy:215
 translate zhHans start_e13640ae:
 
-    # m "I don't trust anyone who claims they don't 是like chocolate,{w=.3} cuz you know they're liars."
+    # m "I don't trust anyone who claims they don't like chocolate,{w=.3} cuz you know they're liars."
     m "我不信任任何声称不喜欢吃巧克力的家伙，{w=.3}因为他们显然已经开始说谎了。"
 
 # game/day1.rpy:217
@@ -916,7 +916,7 @@ translate zhHans start_95dd83da:
 translate zhHans start_c3528e91:
 
     # p "Hm........"
-    p "姆……"
+    p "唔……"
 
 # game/day1.rpy:352
 translate zhHans start_42cfcaf4:
@@ -1494,13 +1494,13 @@ translate zhHans start_b8b0c8eb:
 translate zhHans start_21a5bf40:
 
     # d "That's {i}Mr. Dolores{/i} to you, brat."
-    d "你该叫我Mr. Dolores，"
+    d "你该叫我Mr. Dolores。"
 
 # game/day1.rpy:508
 translate zhHans start_c50b9f4b:
 
     # o "If you say so."
-    o "好的。{size=-10}哦{/size}"
+    o "好的。{size=-15}哦{/size}"
 
 # game/day1.rpy:510
 translate zhHans start_664eda38:
@@ -1548,7 +1548,7 @@ translate zhHans start_98059bfa:
 translate zhHans start_3bc2fa72:
 
     # d "Whatever. At least you folks weren't like that other kid that didn't even show up."
-    d "随便吧。至少你们几个还不像那些根本就没来的学生。"
+    d "随便吧。至少你们几个还不像那个根本就没来的学生。"
 
 # game/day1.rpy:519
 translate zhHans start_99850f4e:
@@ -1674,7 +1674,7 @@ translate zhHans start_366f3678:
 translate zhHans start_7ca2e195:
 
     # "Suddenly, I yelp as Owen elbows me playfully."
-    "突然間我就被Owrn一記輕輕的肘擊嚇到出聲。"
+    "突然間我就被Owen一記輕輕的肘擊嚇到出聲。"
 
 # game/day1.rpy:556
 translate zhHans start_7ec86d82:
@@ -1764,7 +1764,7 @@ translate zhHans start_43a28d3a:
 translate zhHans start_b5340c84:
 
     # o "Well uh....{w=.3} I kinda ran away from home when I was little."
-    o "呃..........這個啊...........{w=.3}我小時候就離家出走了..."
+    o "額..........這個啊...........{w=.3}我小時候就離家出走了..."
 
 # game/day1.rpy:582
 translate zhHans start_ef37d408:
@@ -2167,7 +2167,7 @@ translate zhHans start_f16b5e5b:
 translate zhHans start_c4897778:
 
     # m "Uh, yes ma'am!"
-    m "呃，是的老師！"
+    m "額，是的老師！"
 
 # game/day1.rpy:716
 translate zhHans start_31bf9b61:
@@ -2467,7 +2467,7 @@ translate zhHans start_112b667a:
 translate zhHans start_d3612709:
 
     # m "Uuh, yes ma'am."
-    m "呃，明白了。"
+    m "額，明白了。"
 
 # game/day1.rpy:802
 translate zhHans start_d438f4c5:
@@ -2701,283 +2701,283 @@ translate zhHans start_daffb06a:
 translate zhHans start_ad5a89c4:
 
     # "Photography class ended not a moment too soon. Everyone rushed to get out of that dreaded place."
-    ""
+    "攝影課沒多久就完結了。大家都爭相離開這個可怕之地。"
 
 # game/day1.rpy:867
 translate zhHans start_b7e1e221:
 
     # "The other students keep their distance from me. Probably still wary of that whole \"cursed\" situation."
-    ""
+    "其他同學都在刻意地和我保持距離。十成都是在怕那個「詛咒」東西。"
 
 # game/day1.rpy:869
 translate zhHans start_7dc93f90:
 
     # "My first day at this academy is off to a greaaaat start."
-    ""
+    "我在學院的第一天真是開始得多多多多麼的好啊。"
 
 # game/day1.rpy:870
 translate zhHans start_e9b6aa30:
 
     # "I yawn and fumble through my schedule tiredly. Huh?"
-    ""
+    "我打了呵欠，隨即翻了一下我的行程表。吓？"
 
 # game/day1.rpy:871
 translate zhHans start_04393a61:
 
     # "Looks like it's lunchtime already!{p}I can almost smell that sweet, sweet freedom."
-    ""
+    "那麼快就已經是午飯時間了！{p}我彷彿已經可以聞到那陣香香的自由氣息。"
 
 # game/day1.rpy:875
 translate zhHans start_0a3ff132:
 
     # m "Ow!"
-    m ""
+    m "噢！"
 
 # game/day1.rpy:877
 translate zhHans start_3b42585c:
 
     # "???" "Watch it, dipshit!"
-    "???" ""
+    "???" "走路看路啊，87！"
 
 # game/day1.rpy:882
 translate zhHans start_27348546:
 
     # m "O-oh, sorry!"
-    m ""
+    m "喔，對不起！"
 
 # game/day1.rpy:884
 translate zhHans start_35881cc2:
 
     # "???" "You better be."
-    "???" ""
+    "???" "最好就是。"
 
 # game/day1.rpy:885
 translate zhHans start_23bbe79e:
 
     # "???" "{i}*grumble*{/i}."
-    "???" ""
+    "???" "{i}*嘟囔*{/i}"
 
 # game/day1.rpy:887
 translate zhHans start_fd0cd742:
 
     # "Wow, rude."
-    ""
+    "哇，真粗魯。"
 
 # game/day1.rpy:888
 translate zhHans start_45967696:
 
     # "The kid ignores me and struts down the hall with contempt."
-    ""
+    "這傢伙完完全全忽視了我，還繼續在走廊上闊步走著。"
 
 # game/day1.rpy:892
 translate zhHans start_9736c421:
 
     # "He looks like the kind of guy who has \"angry\" as his default state of mind."
-    ""
+    "他看來就像那種「生氣」就是自己代名詞的人。"
 
 # game/day1.rpy:893
 translate zhHans start_996454ef:
 
     # "He seems a bit familiar though. Where have I seen him before...?"
-    ""
+    "不過他似曾相識...我之前在哪見過他呢...？"
 
 # game/day1.rpy:894
 translate zhHans start_95b1ad0d:
 
     # "Oh! It's the kid on the wallet!"
-    ""
+    "喔！是銀包上那個！"
 
 # game/day1.rpy:895
 translate zhHans start_101e4228:
 
     # "His name is Sissel, I think."
-    ""
+    "我記得他叫Sissel，吧？"
 
 # game/day1.rpy:896
 translate zhHans start_f19c46ca:
 
     # "I reach for it in my pocket but hesitate slightly."
-    ""
+    "我正拿起口袋裏的銀包，但我卻突然猶豫片刻。"
 
 # game/day1.rpy:897
 translate zhHans start_ac37ab4a:
 
     # "Should I even bother giving it to him? He's acting like a jackass."
-    ""
+    "我真的該還給他嗎？他表現得根本像一個87啊。"
 
 # game/day1.rpy:901
 translate zhHans start_55b5eae4:
 
     # "I sigh and pull it out of my pocket."
-    ""
+    "歎了口氣，我還是從口袋拿出了銀包。"
 
 # game/day1.rpy:902
 translate zhHans start_9247d579:
 
     # "Jackass or not, it's still his wallet."
-    ""
+    "是不是87也好，這還是他的銀包。"
 
 # game/day1.rpy:903
 translate zhHans start_687c2f41:
 
     # m "Hey! Is this yours?"
-    m ""
+    m "嘿！這是你的嗎？"
 
 # game/day1.rpy:908
 translate zhHans start_403fdcd9:
 
     # s "Huh? Oh, my wallet!"
-    s ""
+    s "吓？喔，我的銀包！"
 
 # game/day1.rpy:911
 translate zhHans start_582e4745:
 
     # "His ears droop in embarrassment as he walks back to grab it from me."
-    ""
+    "他的雙耳隨即充滿尷尬般垂下，回過頭拿回我手上的銀包。"
 
 # game/day1.rpy:913
 translate zhHans start_1239162d:
 
     # s "Uh...thanks kid."
-    s ""
+    s "額...謝了。"
 
 # game/day1.rpy:917
 translate zhHans start_18a57c67:
 
     # "He rushes back down the hall like he's in a big hurry."
-    ""
+    "他隨即像趕時間一樣，轉身跑過大廳。"
 
 # game/day1.rpy:918
 translate zhHans start_c563862b:
 
     # "Not much of a talker, is he?"
-    ""
+    "不那麼愛說話，是吧？"
 
 # game/day1.rpy:919
 translate zhHans start_f409d85a:
 
     # "Oh wait, he's coming back."
-    ""
+    "喔等等，他跑回來了。"
 
 # game/day1.rpy:924
 translate zhHans start_2ef79858:
 
     # s "U-um, uh..."
-    s ""
+    s "額，嗯……"
 
 # game/day1.rpy:925
 translate zhHans start_51d55c8c:
 
     # s "Sorry for calling you a dipshit earlier."
-    s ""
+    s "抱歉剛剛叫你87。"
 
 # game/day1.rpy:926
 translate zhHans start_6438258a:
 
     # s "It's been a bad day."
-    s ""
+    s "我今天有點黑。"
 
 # game/day1.rpy:928
 translate zhHans start_96cae4e2:
 
     # m "It's fine, don't worry about it."
-    m ""
+    m "沒關係，不用太在意。"
 
 # game/day1.rpy:930
 translate zhHans start_66bb9612:
 
     # s "If you say so..."
-    s ""
+    s "嗯...如你所說..."
 
 # game/day1.rpy:931
 translate zhHans start_a698c2d2:
 
     # s "Um, well...See you around then."
-    s ""
+    s "呃...那等會再見。"
 
 # game/day1.rpy:933
 translate zhHans start_38108f57:
 
     # "Sissel makes his way down the hall again."
-    ""
+    "希索再次跑過大廳。"
 
 # game/day1.rpy:937
 translate zhHans start_d6002b7e:
 
     # "His ears were still drooping. It's quite adorable."
-    ""
+    "他那雙耳還是垂著的。其實也挺可愛啊。"
 
 # game/day1.rpy:938
 translate zhHans start_c9b73de5:
 
     # "I couldn't help but giggle at his antics."
-    ""
+    "面對這樣搞笑的反應，我忍不住笑了起來。"
 
 # game/day1.rpy:939
 translate zhHans start_c39fd5fb:
 
     # "For someone who looks so tough, he sure blushes a lot."
-    ""
+    "在看起來強硬的人之中，他也夠臉紅了。"
 
 # game/day1.rpy:944
 translate zhHans start_a7b9e460:
 
     # e "Well [charname], you really saved him a lot of trouble."
-    e ""
+    e "喔[charname]，你的確為他解決了很多煩惱。"
 
 # game/day1.rpy:945
 translate zhHans start_01e6c020:
 
     # m "GAH!"
-    m ""
+    m "{size=+10}嘎！！{/size}"
 
 # game/day1.rpy:946
 translate zhHans start_87cf3322:
 
     # m "Your voice! Get out of my head!"
-    m ""
+    m "你的聲音！快從我腦袋裏頭滾出去！"
 
 # game/day1.rpy:947
 translate zhHans start_f1f0e9e6:
 
     # e "Nah, it's nice in here. Very empty and cozy~"
-    e ""
+    e "不，這裏那麼棒，又空曠又舒適嘛～"
 
 # game/day1.rpy:948
 translate zhHans start_de6aab0d:
 
     # m "You little shit."
-    m ""
+    m "你這..."
 
 # game/day1.rpy:949
 translate zhHans start_63333c96:
 
     # e "...Did you know? Sissel's the poorest student here at Gerania Academy."
-    e ""
+    e "...你知道嗎？Sissel是整個學院裏最窮的學生。"
 
 # game/day1.rpy:950
 translate zhHans start_d07669a3:
 
     # e "Returning his wallet probably meant a lot to him."
-    e ""
+    e "對他而言，歸還他的銀包可能意義重大。"
 
 # game/day1.rpy:952
 translate zhHans start_97113b09:
 
     # m "...so why did you steal his wallet from him in the first place?"
-    m ""
+    m "...所以為甚麼你最開頭又要偷他的銀包呢？"
 
 # game/day1.rpy:953
 translate zhHans start_01f1fe33:
 
     # e "You'll see, little man."
-    e ""
+    e "看著你就會知道，小夥子。"
 
 # game/day1.rpy:954
 translate zhHans start_29e6c44d:
 
     # m "We're the same exact height-"
-    m ""
+    m "我們可是等高的-"
 
 # game/day1.rpy:960
 translate zhHans start_0eca926a:
@@ -5181,3 +5181,36 @@ translate zhHans start_102283ed:
     # "With a long sigh, I close my eyes and let the tides of sleep carry me away."
     ""
 
+translate zhHans strings:
+
+    # game/day1.rpy:409
+    old "Climb the window"
+    new "翻窗進去"
+
+    # game/day1.rpy:409
+    old "Wait outside"
+    new "在外面等"
+
+    # game/day1.rpy:588
+    old "Are you doing okay?"
+    new "你還好嗎？"
+
+    # game/day1.rpy:588
+    old "*Stay quiet*"
+    new "*保持寂靜*"
+
+    # game/day1.rpy:899
+    old "Give him the wallet."
+    new "給他"
+
+    # game/day1.rpy:899
+    old "Keep the wallet."
+    new "不給他"
+
+    # game/day1.rpy:1360
+    old "Stroll around campus"
+    new "在校園周圍逛逛"
+
+    # game/day1.rpy:1360
+    old "Go to the gym"
+    new "去健身房"
