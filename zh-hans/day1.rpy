@@ -3787,337 +3787,337 @@ translate zhHans start_6076ebe4:
 translate zhHans start_4ce7eabc:
 
     # s "He's a good guy at heart,{w=.3} but he's also really.......colorful,{w=.3} ya know?"
-    s ""
+    s "他真心是一個好人{w=.3}但他也太過.......開放了，{w=.3}是不是？" 
 
 # game/day1.rpy:1194
 translate zhHans start_14988ff5:
 
     # s "Sometimes I just want to punch him in that pretty little face of his-"
-    s ""
+    s "有時我甚至想狠狠地打一下他那小小的臉-"
 
 # game/day1.rpy:1195
 translate zhHans start_4dadb9c5:
 
     # s "Anyway, this is still a cafe. What do you want to order?"
-    s ""
+    s "無論如何，這裏還是一間咖啡廳。你們想點甚麼？"
 
 # game/day1.rpy:1199
 translate zhHans start_aa42fe16:
 
     # "Phillip and I ordered our food and sat in the back of the cafe."
-    ""
+    "Phillip和我點餐後就坐在咖啡廳的後部分。"
 
 # game/day1.rpy:1200
 translate zhHans start_5fff38ff:
 
     # "My stomach growled happily as I take a bite of my sandwich."
-    ""
+    "我的胃在吃下我的三文治時隨即開心得咕咕叫着。"
 
 # game/day1.rpy:1204
 translate zhHans start_ff2ea1e7:
 
     # p "You must be really hungry, huh?"
-    p ""
+    p "你一定是很餓了，不是嗎？"
 
 # game/day1.rpy:1205
 translate zhHans start_8e86571f:
 
     # m "Today took a lot out of me."
-    m ""
+    m "今天可把我累得死了。"
 
 # game/day1.rpy:1206
 translate zhHans start_15991dc6:
 
     # m "I deserve to satiate my stomach."
-    m ""
+    m "我很應該去慰勞一下我的胃。"
 
 # game/day1.rpy:1208
 translate zhHans start_0b20de1c:
 
     # p "Yeah, things have been pretty rough so far."
-    p ""
+    p "嗯，今天發生的事也夠麻煩了。"
 
 # game/day1.rpy:1209
 translate zhHans start_87097dbe:
 
     # p "Sissel doesn't look too happy either. Maybe he's having a rough day himself?"
-    p ""
+    p "Sissel看來也不太開心。可能他今天也有了困苦的一天？"
 
 # game/day1.rpy:1211
 translate zhHans start_9a243283:
 
     # m "Speaking of,{p=.3}How do you know Sissel?{w=.3} Have you two met before?"
-    m ""
+    m "說起來，{p=.3}你怎認識Sissel的？{w=.3}你們先前遇見過對方嗎？"
 
 # game/day1.rpy:1212
 translate zhHans start_10366fca:
 
     # p "Sort of?{w=.3} I hang around this lake pretty often when I was younger,{w=.3} and Sissel's always there as well."
-    p ""
+    p "都算吧？{p=.3}我小時候經常都會去Bradley Lake，{w=.3}而Sissel往往都在。"
 
 # game/day1.rpy:1213
 translate zhHans start_6aeeaf67:
 
     # p "We talked every now and then,{w=.3} but I never knew his name until now."
-    p ""
+    p "我們偶爾都有在聊天，{w=.3}但我從來也不知道他的名字，直到現在。"
 
 # game/day1.rpy:1216
 translate zhHans start_294a5f30:
 
     # m "Yeesh, I can see why.{p=.3}That's one grumpy kid."
-    m ""
+    m "對啊，我知道為甚麼。{p=.3}他真是個脾氣差的小孩。"
 
 # game/day1.rpy:1224
 translate zhHans start_6758dd94:
 
     # e "True, but he's not a bad person, really."
-    e ""
+    e "沒錯，但他也不是個壞人。"
 
 # game/day1.rpy:1225
 translate zhHans start_0398c4d1:
 
     # m "Damn it, give me some warning when you pop up like that!"
-    m ""
+    m "卧春，在你像這樣彈出來前請給我一些警告啊！"
 
 # game/day1.rpy:1226
 translate zhHans start_12a4f32e:
 
     # e "You'll get used to it."
-    e ""
+    e "你會習慣的。"
 
 # game/day1.rpy:1227
 translate zhHans start_6f319619:
 
     # e "By the way, thought you'd like to know,{p}Sissel gave you a discount on your coffee."
-    e ""
+    e "話說，我猜你應該會想知道，{p=.3}Sissel在你的咖啡上打了折扣。"
 
 # game/day1.rpy:1228
 translate zhHans start_f4d32960:
 
     # m "What really?"
-    m ""
+    m "啥？真的嗎？"
 
 # game/day1.rpy:1229
 translate zhHans start_bbb15071:
 
     # "I checked the receipt and sure enough, the coffee was a dollar off."
-    ""
+    "我立刻檢查了帳單，也還真的給了一元折扣。"
 
 # game/day1.rpy:1230
 translate zhHans start_ee9835b4:
 
     # m "Wow, I guess Sissel isn't as terrible as he acts sometimes."
-    m ""
+    m "嘩，想來Sissel也不是如他表現得的那麼差啊。"
 
 # game/day1.rpy:1231
 translate zhHans start_8340c186:
 
     # e "The guy's got a lot on his shoulders."
-    e ""
+    e "他背負了很多的。"
 
 # game/day1.rpy:1232
 translate zhHans start_d557eaa3:
 
     # e "By the way, do you want to really make his day better?"
-    e ""
+    e "話說，你想讓他今天過得好點嗎？"
 
 # game/day1.rpy:1233
 translate zhHans start_a4fe6d91:
 
     # m "I smell ghostly scheming."
-    m ""
+    m "我貌似聞到明顯的詭計..."
 
 # game/day1.rpy:1234
 translate zhHans start_3f0cf3db:
 
     # e "It's nothing bad!"
-    e ""
+    e "這又沒壞的！"
 
 # game/day1.rpy:1235
 translate zhHans start_70e72c5e:
 
     # e "Just go buy Sissel something to eat."
-    e ""
+    e "去買些食物給Sissel他吃吧。"
 
 # game/day1.rpy:1236
 translate zhHans start_09e447d1:
 
     # e "The poor kid hasn't eaten since yesterday morning and probably can't afford anything right now."
-    e ""
+    e "那個窮小孩由昨天起就未吃過東西，現在他大概也買不起甚麼了。"
 
 # game/day1.rpy:1237
 translate zhHans start_529f63f8:
 
     # e "Plus, it's almost his lunch break."
-    e ""
+    e "再說，現在也差不多到他的午餐時候。"
 
 # game/day1.rpy:1239
 translate zhHans start_2c6afd28:
 
     # m "...you are either a really nice guy, or the nosiest ghost in the world."
-    m ""
+    m "...你要麼是挺好的鬼魂，要麼就是全世界最愛管閒事的鬼魂。"
 
 # game/day1.rpy:1240
 translate zhHans start_e5c97b42:
 
     # e "Haha, I get it all from you little man."
-    e ""
+    e "哈哈，我這全都是在你身上學的。"
 
 # game/day1.rpy:1241
 translate zhHans start_f4e6f22a:
 
     # m "What-"
-    m ""
+    m "甚麼-"
 
 # game/day1.rpy:1249
 translate zhHans start_81305dba:
 
     # p "[charname]?"
-    p ""
+    p "[charname]？"
 
 # game/day1.rpy:1250
 translate zhHans start_12affd10:
 
     # m "E-eh?!"
-    m ""
+    m "欸？！"
 
 # game/day1.rpy:1251
 translate zhHans start_417a9cfb:
 
     # p "You were dozing off for a while. Who were you talking to?"
-    p ""
+    p "你剛才失神了。你剛才是跟誰在說話？"
 
 # game/day1.rpy:1252
 translate zhHans start_8fa4921c:
 
     # m "N-no one! Just daydreaming!"
-    m ""
+    m "沒-沒有！只是發白日夢而已！"
 
 # game/day1.rpy:1253
 translate zhHans start_6bfa1bab:
 
     # p "Alright, if you say so."
-    p ""
+    p "好吧。"
 
 # game/day1.rpy:1254
 translate zhHans start_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/day1.rpy:1255
 translate zhHans start_f1bff77c:
 
     # m "........"
-    m ""
+    m "........"
 
 # game/day1.rpy:1262
 translate zhHans start_b5803f15:
 
     # "After finishing our meals, Phillip and I began heading back to the academy."
-    ""
+    "吃完我們的午餐後，Phillip和我準備回學院了。"
 
 # game/day1.rpy:1263
 translate zhHans start_a6ef78c8:
 
     # "When we got to the door, I stopped myself, a feeling nagging at the back of my mind."
-    ""
+    "當我們到了門口時，我停下了自己，"
 
 # game/day1.rpy:1264
 translate zhHans start_10b9562d:
 
     # "Well [charname], it's time to be a good person."
-    ""
+    "[charname]，是時候要當一回好人了。"
 
 # game/day1.rpy:1265
 translate zhHans start_2d7a7237:
 
     # m "Hey Phillip, you go head back without me. There's something I gotta do."
-    m ""
+    m "嘿Phillip，你自己先回去吧。我有點事要去做。"
 
 # game/day1.rpy:1266
 translate zhHans start_015f978a:
 
     # p "Hm? Sure thing!"
-    p ""
+    p "唔？當然沒問題！"
 
 # game/day1.rpy:1267
 translate zhHans start_06df04b5:
 
     # p "See you back at school then!"
-    p ""
+    p "那我們學校見了。"
 
 # game/day1.rpy:1268
 translate zhHans start_ede49c8a:
 
     # p "If I don't get lost, that is."
-    p ""
+    p "大前提是我沒有迷路的啦。"
 
 # game/day1.rpy:1273
 translate zhHans start_59fba6e8:
 
     # "And with that, Phillip left the building,{w=.3} leaving me alone with Sissel."
-    ""
+    "就這樣，Phillip離開了咖啡廳，{w=.3}留下我獨自和Sissel一起。"
 
 # game/day1.rpy:1274
 translate zhHans start_4eaddd94:
 
     # "I took a long, deep breath before approaching him."
-    ""
+    "我深吸一口氣，之後才往他去。"
 
 # game/day1.rpy:1276
 translate zhHans start_66dfaa0b:
 
     # m "Hey Sissel."
-    m ""
+    m "嘿Sissel。"
 
 # game/day1.rpy:1281
 translate zhHans start_351f4c28_1:
 
     # s "What do you want?"
-    s ""
+    s "你想要甚麼？"
 
 # game/day1.rpy:1282
 translate zhHans start_94e8191c:
 
     # m "Well uh, i-it's almost your lunch break right?"
-    m ""
+    m "額，差-差不多到你的午餐時間吧？"
 
 # game/day1.rpy:1283
 translate zhHans start_0ac35a54:
 
     # m "How about I get you a sandwich or something? My treat."
-    m ""
+    m "不如我請你一個三文治或是甚麼？我請客。"
 
 # game/day1.rpy:1289
 translate zhHans start_84a0c863:
 
     # s "W-what-?{p}I-I..."
-    s ""
+    s "甚-甚麼？{p}我...我..."
 
 # game/day1.rpy:1290
 translate zhHans start_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/day1.rpy:1296
 translate zhHans start_5526af4d:
 
     # s "Actually, that would be great."
-    s ""
+    s "好啊...聽起來不錯..."
 
 # game/day1.rpy:1297
 translate zhHans start_ca377438:
 
     # s "Thanks."
-    s ""
+    s "謝謝..."
 
 # game/day1.rpy:1303
 translate zhHans start_57c3686c:
 
     # "Wow, Sissel's wolfing down that sandwich like he's never eaten before in his life."
-    ""
+    "哇，Sissel狼吞虎嚥吃掉那個三文治，就像他之前從來沒吃過東西一樣..."
 
 # game/day1.rpy:1305
 translate zhHans start_4207c074:
