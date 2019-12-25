@@ -2479,223 +2479,223 @@ translate zhHans start_d438f4c5:
 translate zhHans start_a73a8e94:
 
     # "I settle back down at my desk and glare at the kid."
-    ""
+    "我回到我的座位，盯着那個小孩。"
 
 # game/day1.rpy:805
 translate zhHans start_1968f3cb:
 
     # "What the hell is going on?"
-    ""
+    "到底現在又是怎樣？"
 
 # game/day1.rpy:809
 translate zhHans start_e797d802:
 
     # "???" "Sorry [charname], I probably shouldn't have startled you."
-    "???" ""
+    "???" "對不起[charname]，我或許不該在現在嚇你一跳的。"
 
 # game/day1.rpy:810
 translate zhHans start_a3f6166b:
 
     # "???" "Especially with ol' Corlisse around."
-    "???" ""
+    "???" "尤其是當那個Corlisse在附近的時候。"
 
 # game/day1.rpy:811
 translate zhHans start_d6cf3e53:
 
     # m "Who the hell are you, and why can't anyone else see you?"
-    m ""
+    m "你究竟是誰？還有為何其他人看不到你？"
 
 # game/day1.rpy:812
 translate zhHans start_bfaad9d6:
 
     # m "A-are you really a ghost?"
-    m ""
+    m "你-你真的是鬼嗎？"
 
 # game/day1.rpy:813
 translate zhHans start_d22df9e4:
 
     # "???" "Me? Hmm..."
-    "???" ""
+    "???" "我？唔...."
 
 # game/day1.rpy:814
 translate zhHans start_5bd2e47a:
 
     # e "You can call me Echo. And no, I'm not a ghost. Nothing sad like that."
-    e ""
+    e "你可以叫我Echo，還有不，我不是鬼魂那種悲哀的存在。"
 
 # game/day1.rpy:815
 translate zhHans start_f76472fd:
 
     # e "I guess you can call me a \"wish\"."
-    e ""
+    e "我想你可以叫我是一個「願望」。"
 
 # game/day1.rpy:816
 translate zhHans start_669b995a:
 
     # m "...That makes no sense. And your face..."
-    m ""
+    m "...這很沒有道理啊。還有你的臉..."
 
 # game/day1.rpy:819
 translate zhHans start_de244dee:
 
     # e "Oh, you finally noticed?"
-    e ""
+    e "喔，你終於留意到了？"
 
 # game/day1.rpy:820
 translate zhHans start_33a73345:
 
     # m "You look just like...{p}...me?"
-    m ""
+    m "你看來像...{p}...我？"
 
 # game/day1.rpy:821
 translate zhHans start_e2894cdc:
 
     # e "Nah, I'm much more handsome thank you very much."
-    e ""
+    e "錯，我更加帥。謝謝。"
 
 # game/day1.rpy:822
 translate zhHans start_fdcc04aa:
 
     # m "Not to mention humble."
-    m ""
+    m "不用說謙虛了。"
 
 # game/day1.rpy:823
 translate zhHans start_1785e4b8:
 
     # m "Why do you look like me? And why are you {i}here?{/i}"
-    m ""
+    m "為甚麼你看起來像我？還有為甚麼你會在{i}這{/i}？"
 
 # game/day1.rpy:825
 translate zhHans start_a4086390:
 
     # e "...I can't answer those questions at the moment."
-    e ""
+    e "...我一時間還未能答到這些問題。"
 
 # game/day1.rpy:826
 translate zhHans start_66c2b0cf:
 
     # m "...Great."
-    m ""
+    m "...真棒。"
 
 # game/day1.rpy:827
 translate zhHans start_62e9b58a:
 
     # m "Wait, aren't you the one who locked the front doors this morning?"
-    m ""
+    m "等會，你不就是今早鎖前門那個啊。"
 
 # game/day1.rpy:828
 translate zhHans start_3733cf51:
 
     # e "Oh, you're a sharp one."
-    e ""
+    e "喔，你真敏銳。"
 
 # game/day1.rpy:829
 translate zhHans start_d877d713:
 
     # m "Why did you have to do that?!{p}You made me miss the orientation and late for everything!"
-    m ""
+    m "為啥要這樣做啊？！{p}你害到我錯過迎新會，又瘋狂遲到！"
 
 # game/day1.rpy:830
 translate zhHans start_0973debf:
 
     # m "Not to mention stranding me outside in the rain."
-    m ""
+    m "更不提把我扔在雨中！"
 
 # game/day1.rpy:832
 translate zhHans start_3b836c6b:
 
     # e "If I didn't lock those doors, would you have met Phillip, or Owen?"
-    e ""
+    e "如果我沒有鎖上那些門，你會遇上Phillip或者Owen嗎？"
 
 # game/day1.rpy:833
 translate zhHans start_41911439:
 
     # m "W-well..."
-    m ""
+    m "這-這..."
 
 # game/day1.rpy:834
 translate zhHans start_f4c2122d:
 
     # e "And if I haven't stolen Sissel's wallet, you wouldn't have met him either."
-    e ""
+    e "還有如果我沒有偷Sissel的銀包，你也不會遇上他了。"
 
 # game/day1.rpy:836
 translate zhHans start_fdf2a377:
 
     # m "...uh, we haven't met yet, actually."
-    m ""
+    m "...呃，其實我們還未遇上。"
 
 # game/day1.rpy:837
 translate zhHans start_12c22ce3:
 
     # e "Really? What's taking you so long?"
-    e ""
+    e "真的嗎？是有甚麼拖了你很久嗎？"
 
 # game/day1.rpy:838
 translate zhHans start_7d8ed2a2:
 
     # e "No matter, you'll bump into him sooner or later."
-    e ""
+    e "無論如何，你遲早都會遇到他的。"
 
 # game/day1.rpy:840
 translate zhHans start_21e7b1cc:
 
     # "Why is he smirking like that?"
-    ""
+    "為啥他笑得那麼奸？"
 
 # game/day1.rpy:846
 translate zhHans start_d5c8b7dc:
 
     # e "....!!"
-    e ""
+    e "....！！"
 
 # game/day1.rpy:849
 translate zhHans start_0073b2aa:
 
     # e "Looks like I'm out of time."
-    e ""
+    e "看來我沒有時間了。"
 
 # game/day1.rpy:850
 translate zhHans start_5594a975:
 
     # e "I'll see you around, [charname]...{p}...Don't lose that camera..."
-    e ""
+    e "我們等會見了，[charname]...{p}...不要丟失那個相機啊..."
 
 # game/day1.rpy:854
 translate zhHans start_a2ede0b1:
 
     # "...he's gone."
-    ""
+    "...他消失了。"
 
 # game/day1.rpy:855
 translate zhHans start_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/day1.rpy:856
 translate zhHans start_ea2e7236:
 
     # m "...He may be a ghost,{p}but I really want to kick his ass."
-    m ""
+    m "...他可能真是一隻鬼魂，{p}但我真的很想教訓他一頓。"
 
 # game/day1.rpy:858
 translate zhHans start_9ca92e88:
 
     # "I sighed and glanced down at the camera in my hands."
-    ""
+    "我歎了口氣，望一下我手中的相機。"
 
 # game/day1.rpy:859
 translate zhHans start_e8a34b15:
 
     # "A few moments of silence go by before I reluctantly hang the camera around my neck."
-    ""
+    "過了一會寂靜的時刻，我很不情願地掛起那部相機。"
 
 # game/day1.rpy:860
 translate zhHans start_daffb06a:
 
     # "Ghosts and cameras,{p}What could ever go wrong?"
-    ""
+    "鬼魂和相機，{p}還會有甚麼奇怪的？"
 
 # game/day1.rpy:866
 translate zhHans start_ad5a89c4:
